@@ -1,0 +1,4065 @@
+[
+    {
+        "classNames": [
+            "icon-aws-cloud"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/general/General_AWScloud.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "25px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-awsgov-cloud",
+            "icon-awsgov-account"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/general/aws-gov-cloud.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "25px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-account"
+        ],
+        "path": "/assets/images/icons/aws.svg",
+        "platform": "aws",
+        "type": "Account",
+        "size": [
+            "20px",
+            "14px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-shiftleft-account"
+        ],
+        "path": "/assets/images/icons/shiftleft.svg",
+        "platform": "shiftleft",
+        "type": "",
+        "size": [
+            "20px",
+            "14px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-sourcecodeassurance-account"
+        ],
+        "path": "/assets/images/icons/shiftleft.svg",
+        "platform": "shiftleft",
+        "type": "",
+        "size": [
+            "23px",
+            "18px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-shiftleft-shift-left-image"
+        ],
+        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "platform": "kubernetes",
+        "type": "ShiftLeftImage",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-network"
+        ],
+        "path": "/assets/images/icons/network.svg",
+        "platform": "",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-imageassurance-account"
+        ],
+        "path": "/assets/images/icons/imageassurance.svg",
+        "platform": "",
+        "type": "",
+        "size": [
+            "22px",
+            "22px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-region",
+            "icon-aws-list-region"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/AWS_Region.png",
+        "platform": "aws",
+        "type": "Region",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-elastic-search-domain",
+            "icon-aws-list-elastic-search-domain"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Analytics/aws-elastic-search.svg",
+        "platform": "aws",
+        "type": "ElasticSearchDomain",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-emr-cluster",
+            "icon-aws-list-emr-cluster"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Analytics/Analytics_AmazonEMR_cluster.png",
+        "platform": "aws",
+        "type": "EmrCluster",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam",
+            "icon-aws-list-iam"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "27px",
+            "21px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam-policy",
+            "icon-aws-list-iam-policy"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/SecurityIdentityIamPermissions.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "27px",
+            "21px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-route-table",
+            "icon-aws-list-route-table"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonRoute53_routetable.png",
+        "platform": "aws",
+        "type": "RouteTable",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-nacl",
+            "icon-aws-list-nacl"
+        ],
+        "path": "/assets/vendor-icons/Res_Amazon-VPC_Router_48_Dark.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-redshift",
+            "icon-aws-list-redshift"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Database/Redshift.png",
+        "platform": "aws",
+        "type": "Redshift",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-network-interface",
+            "icon-aws-list-network-interface"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_ElasticNetworkInterface.png",
+        "platform": "aws",
+        "type": "NetworkInterface",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-instance",
+            "icon-aws-list-instance"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/EC2_instance.png",
+        "platform": "aws",
+        "type": "Instance",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-external",
+            "icon-aws-list-external"
+        ],
+        "path": "/assets/images/clarity/External.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-alb",
+            "icon-aws-list-alb"
+        ],
+        "path": "/assets/images/clarity/ALB.png",
+        "platform": "aws",
+        "type": "ApplicationLoadBalancer",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-aws-api-call",
+            "icon-aws-list-aws-api-call"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-natgw",
+            "icon-aws-list-natgw"
+        ],
+        "path": "/assets/images/clarity/NAT.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-elasticmapreduce",
+            "icon-aws-list-elasticmapreduce"
+        ],
+        "path": "/assets/images/clarity/elasticmapreduce.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-eks-nodegroup",
+            "icon-aws-list-eks-nodegroup"
+        ],
+        "path": "/assets/images/clarity/nodegroup.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-delivery",
+            "icon-aws-list-delivery"
+        ],
+        "path": "/assets/images/clarity/delivery.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-servicediscovery",
+            "icon-aws-list-servicediscovery"
+        ],
+        "path": "/assets/images/clarity/discovery.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-amazonmq",
+            "icon-aws-list-amazonmq"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/Amazon-MQ.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-guardduty",
+            "icon-aws-list-guardduty"
+        ],
+        "path": "/assets/images/clarity/guardduty.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-directconnect",
+            "icon-aws-list-directconnect"
+        ],
+        "path": "/assets/images/clarity/Direct-connect.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-config",
+            "icon-aws-list-config"
+        ],
+        "path": "/assets/images/clarity/config.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cognito-idp",
+            "icon-aws-list-cognito-idp"
+        ],
+        "path": "/assets/images/serverless/aws/aws-cognito-idp.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-glue",
+            "icon-aws-list-glue"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-translate",
+            "icon-aws-list-translate"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-dms",
+            "icon-aws-list-dms"
+        ],
+        "path": "/assets/images/clarity/dms.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-states",
+            "icon-aws-list-states"
+        ],
+        "path": "/assets/images/serverless/aws/aws-states.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-vpc-flow-logs",
+            "icon-aws-list-vpc-flow-logs"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_flowlogs.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-access-analyzer",
+            "icon-aws-list-access-analyzer"
+        ],
+        "path": "/assets/images/azure-icons/AnalysisServices.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cloud-trail",
+            "icon-aws-list-cloud-trail"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/Management-Tools_AWSCloudTrail.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam-role",
+            "icon-aws-list-iam-role",
+            "icon-aws-assumed-role"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM_role.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cloud-formation-stack",
+            "icon-aws-list-cloud-formation-stack",
+            "icon-aws-cloudformation"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-CloudFormation_Stack.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-kinesis-firehose",
+            "icon-aws-list-kinesis-firehose"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Analytics/Amazon-Kinesis-Firehose.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-msk-cluster",
+            "icon-aws-list-msk-cluster"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Analytics/AWS_Msk_Cluster.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam-group",
+            "icon-aws-list-iam-group"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/General/General_users.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-events",
+            "icon-aws-logs"
+        ],
+        "path": "/assets/images/clarity/cloudwatch.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam-user",
+            "icon-aws-list-iam-user",
+            "icon-aws-iam",
+            "icon-aws-saml-user"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/General/General_user.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-s-3-bucket",
+            "icon-aws-list-s-3-bucket",
+            "icon-aws-s-3"
+        ],
+        "path": "/assets/vendor-icons/Arch_Amazon-Simple-Storage-Service_16.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-kms",
+            "icon-aws-list-kms"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSKMS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-vpc",
+            "icon-aws-list-vpc"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/General/General_virtualprivatecloud.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "20px",
+            "13px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-lambda-function",
+            "icon-aws-lambda",
+            "icon-aws-list-lambda"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/Lambda.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-elb",
+            "icon-aws-list-elb"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-auto-scaling-group",
+            "icon-aws-list-auto-scaling-group"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/EC2_AutoScaling.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-application-auto-scaling-policy"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/Amazon-Application-Auto-Scaling.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sqs",
+            "icon-aws-list-sqs"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SQS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-nat-gateway",
+            "icon-aws-list-nat-gateway"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_VPCNATgateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-application-load-balancer",
+            "icon-aws-list-application-load-balancer"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-network-load-balancer",
+            "icon-aws-list-network-load-balancer"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-gateway-load-balancer",
+            "icon-aws-list-gateway-load-balancer"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-rds",
+            "icon-aws-list-rds"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Database/RDS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-rdsdb-snapshot",
+            "icon-aws-list-rdsd-bsnapshot"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Database/RDSDBSnapshot.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-rdsdb-cluster",
+            "icon-aws-list-rds"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Database/RDS_Cluster.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-internet-gateway",
+            "icon-aws-list-internet-gateway"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_internetgateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-vpcfl"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_flowlogs.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cloudtrail"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/Management-Tools_AWSCloudTrail.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-log-group",
+            "icon-aws-list-log-group"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/Aws-CloudWatch.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-efs",
+            "icon-aws-list-efs"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Storage/AmazonEFS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-storage-gateway",
+            "icon-aws-list-storage-gateway"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Storage/Storage-Gateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-elasti-cache",
+            "icon-aws-list-elasti-cache"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Database/ElasticCache.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecs-cluster",
+            "icon-aws-list-ecs-cluster",
+            "icon-aws-ecs"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-eks-cluster",
+            "icon-aws-list-eks-cluster"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/EKS.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecs-task-definition",
+            "icon-aws-list-ecs-task-definition"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecr-repository",
+            "icon-aws-list-ecr-repository"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ECR.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cloud-front",
+            "icon-aws-list-cloud-front"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonCloudFront.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-volume",
+            "icon-aws-list-volume"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Storage/volume.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ebs-snapshot",
+            "icon-aws-list-ebs-snapshot"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Storage/volume.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-kinesis",
+            "icon-aws-list-kinesis"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Analytics/Kinesis.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-route-53-hosted-zone",
+            "icon-aws-list-route-53-hosted-zone"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53Hostedzone.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-route-53-record-set-group",
+            "icon-aws-list-route-53-record-set-group",
+            "icon-aws-route-53"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-acm-certificate",
+            "icon-aws-list-acm-certificate"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AcmCertificateManager.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam-server-certificate",
+            "icon-aws-list-iam-server-certificate"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/IamSecurityCredential.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-route-53-domain",
+            "icon-aws-list-route-53-domain"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53Domain.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-dynamo-db-table",
+            "icon-aws-list-dynamo-db-table",
+            "icon-aws-dynamodb"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Database/DynamoDB_table.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ami",
+            "icon-aws-list-ami"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/EC2_AMI.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-vpn-gateway",
+            "icon-aws-list-vpn-gateway"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/VPNgateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-waf-regional",
+            "icon-aws-list-waf-regional"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-waf-regional-v-2",
+            "icon-aws-list-waf-regional-v-2"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-vpn-connection",
+            "icon-aws-list-vpn-connection"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/VPNconnection.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecs-task",
+            "icon-aws-list-ecs-task"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sns-topic",
+            "icon-aws-list-sns-topic"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sns-platform-application",
+            "icon-aws-list-sns-platform-application"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ses",
+            "icon-aws-list-ses"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SimpleEmail.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecs-service",
+            "icon-aws-list-ecs-service"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-elastic-ip",
+            "icon-aws-list-elastic-ip"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticIPaddress.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-customer-gateway",
+            "icon-aws-list-customer-gateway"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/customergateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-api-gateway",
+            "icon-aws-list-api-gateway"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-api-gateway-v-2",
+            "icon-aws-list-api-gateway-v-2"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-custom-domain-name",
+            "icon-aws-list-custom-domain-name"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/CustomDomainName.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sage-maker-notebook",
+            "icon-aws-list-sage-maker-notebook"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/aws-sagemaker.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-workspace",
+            "icon-aws-list-workspace",
+            "icon-aws-workspaces",
+            "icon-aws-list-workspaces"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/EndUserComputing/aws-workspace.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sage-maker-training-job",
+            "icon-aws-list-sage-maker-training-job"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-sagemaker_trainingjob.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cloud-watch-events-rule",
+            "icon-aws-list-cloud-watch-events-rule"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/CloudWatchEventBased.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-vpc-endpoint",
+            "icon-aws-list-vpc-endpoint"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_endpoints.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sts"
+        ],
+        "path": "/assets/images/clarity/sts.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ssm"
+        ],
+        "path": "/assets/images/clarity/ssm.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecs-tasks"
+        ],
+        "path": "/assets/images/clarity/docker.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-aws-account"
+        ],
+        "path": "/assets/images/clarity/aws.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-aws-autoscaling",
+            "icon-aws-autoscaling"
+        ],
+        "path": "/assets/images/clarity/autoscaling.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sns"
+        ],
+        "path": "/assets/images/clarity/sns.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecr"
+        ],
+        "path": "/assets/images/clarity/ecr.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ec-2"
+        ],
+        "path": "/assets/images/clarity/ec2.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-eks"
+        ],
+        "path": "/assets/images/clarity/eks.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-elasticbeanstalk"
+        ],
+        "path": "/assets/images/clarity/elasticbeanstalk.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-monitoring"
+        ],
+        "path": "/assets/images/clarity/monitoring.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-sqs"
+        ],
+        "path": "/assets/images/clarity/sqs.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-aws-console-sign-in"
+        ],
+        "path": "/assets/images/clarity/AwsConsoleSignIn.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-config-setting"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-Config.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-organization",
+            "icon-aws-list-organization"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/General/aws-organizations.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-transit-gateway",
+            "icon-aws-list-transit-gateway"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonTransitGateway.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-step-function-state-machine",
+            "icon-aws-step-function-state-machine"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/AWS-Step-Functions.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-secret-manager",
+            "icon-aws-list-secret-manager"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AwsSecretManager.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-transcribe-job",
+            "icon-aws-list-transcribe-job",
+            "icon-aws-transcribe"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-transcribe-medical-job",
+            "icon-aws-list-transcribe-medical-job"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cognito-user-pool",
+            "icon-aws-list-cognito-user-pool"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-cognito-identity-pool",
+            "icon-aws-list-cognito-identity-pool"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-transfer",
+            "icon-aws-list-transfer"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Transfer-Family.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-personalize",
+            "icon-aws-list-personalize"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Personalize.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-system-manager-parameter",
+            "icon-aws-list-system-manager-parameter"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-Systems-Manager_Parameter-Store.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-glue-security-configuration",
+            "icon-aws-list-glue-security-configuration"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-glue-connection",
+            "icon-aws-list-glue-connection"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-mq-broker",
+            "icon-aws-list-mq-broker"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/Amazon-MQ.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-network-firewall",
+            "icon-aws-network-vpc-firewall",
+            "icon-aws-list-network-firewall"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Networking/AWS-Network-Firewall_Icon.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-translation-job",
+            "icon-aws-list-translation-job"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-athena-work-group",
+            "icon-aws-list-athena-work-group"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Analytics/Amazon-Athena.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-translation-terminology",
+            "icon-aws-list-translation-terminology"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-system-manager-document",
+            "icon-aws-list-system-manager-document"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/ManagementTools/awssystemmanagerdocument.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-dms-endpoint",
+            "icon-aws-list-dms-endpoint"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Database-Migration.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-elastic-beanstalk",
+            "icon-aws-list-elastic-beanstalk"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Compute/Elastic-Beanstalk.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-shield",
+            "icon-aws-list-shield"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Shield.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-backup-vault",
+            "icon-aws-list-backup-vault"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Storage/Backup.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam-saml-provider",
+            "icon-aws-list-iam-saml-provider"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-iam-open-id-connect-provider",
+            "icon-aws-list-iam-open-id-connect-provider"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-f-sx",
+            "icon-aws-list-f-sx",
+            "icon-aws-f-sx-backup",
+            "icon-aws-list-f-sx-backup"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Storage/Amazon-FSx.svg",
+        "platform": "aws",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-cloud"
+        ],
+        "path": "/assets/images/azure-icons/azure.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "25px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-account"
+        ],
+        "path": "/assets/images/icons/azure.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "20px",
+            "14px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-virtual-machine",
+            "icon-azure-list-virtual-machine"
+        ],
+        "path": "/assets/images/azure-icons/VM symbol only.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-service-fabric-cluster",
+            "icon-azure-list-service-fabric-cluster"
+        ],
+        "path": "/assets/images/azure-icons/ServiceFabricCluster.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-network-security-group",
+            "icon-azure-list-network-security-group"
+        ],
+        "path": "/assets/images/azure-icons/NSG.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-load-balancer",
+            "icon-azure-list-load-balancer"
+        ],
+        "path": "/assets/images/azure-icons/Azure load balancer.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-virtual-network",
+            "icon-azure-v-net",
+            "icon-azure-vnet"
+        ],
+        "path": "/assets/images/azure-icons/Azure Virtual Network.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-virtual-network-gateway",
+            "icon-azure-list-virtual-network-gateway"
+        ],
+        "path": "/assets/images/azure-icons/Virtual-Network-Gateways.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-firewall",
+            "icon-azure-list-firewall"
+        ],
+        "path": "/assets/images/azure-icons/AzureFirewalls.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-subnet",
+            "icon-azure-list-subnet"
+        ],
+        "path": "/assets/images/azure-icons/Subnet.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-resource-group",
+            "icon-azure-list-resource-group"
+        ],
+        "path": "/assets/images/azure-icons/ResourceGroup.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-application-gateway",
+            "icon-azure-list-application-gateway"
+        ],
+        "path": "/assets/images/azure-icons/ResourceGroup.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-sql-server",
+            "icon-azure-list-sql-server"
+        ],
+        "path": "/assets/images/azure-icons/SQLDatabaseServer.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-route-table",
+            "icon-azure-list-route-table"
+        ],
+        "path": "/assets/images/azure-icons/RouteTables.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-sqldb",
+            "icon-azure-list-sqldb",
+            "icon-azure-sql-database",
+            "icon-azure-list-sql-database"
+        ],
+        "path": "/assets/images/azure-icons/AzureSQLDatabase.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-key-vault",
+            "icon-azure-list-key-vault"
+        ],
+        "path": "/assets/images/azure-icons/Azure KeyVault.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-redis-cache",
+            "icon-azure-list-redis-cache"
+        ],
+        "path": "/assets/images/azure-icons/AzureRedisCache.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-storage-account",
+            "icon-azure-list-storage-account"
+        ],
+        "path": "/assets/images/azure-icons/Storage.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-data-warehouse",
+            "icon-azure-list-data-warehouse"
+        ],
+        "path": "/assets/images/azure-icons/azure-data-warehouse.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-vnet-peering",
+            "icon-azure-list-vnet-peering"
+        ],
+        "path": "/assets/images/azure-icons/VNetPeering.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-postgre-sql",
+            "icon-azure-list-postgre-sql"
+        ],
+        "path": "/assets/images/azure-icons/postgresql.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-container-registry",
+            "icon-azure-list-container-registry"
+        ],
+        "path": "/assets/images/azure-icons/AzureContainerRegistry.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-cosmos-db-account",
+            "icon-azure-list-cosmos-db-account"
+        ],
+        "path": "/assets/images/azure-icons/AzureCosmosDb.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-network-watcher",
+            "icon-azure-list-network-watcher"
+        ],
+        "path": "/assets/images/azure-icons/NetworkWatcher.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-log-profile",
+            "icon-azure-list-log-profile"
+        ],
+        "path": "/assets/images/azure-icons/Log.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-nsg-flow-log",
+            "icon-azure-list-nsg-flow-log"
+        ],
+        "path": "/assets/images/azure-icons/NSG-Flow-Logs.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-logic-app",
+            "icon-azure-list-logic-app"
+        ],
+        "path": "/assets/images/azure-icons/LogicApps.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-analysis-service-server",
+            "icon-azure-list-analysis-service-server"
+        ],
+        "path": "/assets/images/azure-icons/AnalysisServices.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-virtual-machine-scale-set",
+            "icon-azure-list-virtual-machine-scale-set"
+        ],
+        "path": "/assets/images/azure-icons/VirtualMachineScaleSet.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-vmss-instance",
+            "icon-azure-list-vmss-instance"
+        ],
+        "path": "/assets/images/azure-icons/VirtualMachineScaleSet.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-policy-assignment",
+            "icon-azure-list-policy-assignment"
+        ],
+        "path": "/assets/images/azure-icons/policy-assignment.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-application-security-group",
+            "icon-azure-list-application-security-group"
+        ],
+        "path": "/assets/images/azure-icons/Application-Security-Group.png",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-service-bus",
+            "icon-azure-list-service-bus"
+        ],
+        "path": "/assets/images/azure-icons/10836-icon-service-Service-Bus.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-aks-cluster",
+            "icon-azure-list-aks-cluster"
+        ],
+        "path": "/assets/images/azure-icons/aks.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-function-app",
+            "icon-azure-list-function-app"
+        ],
+        "path": "/assets/images/azure-icons/functionApps.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-web-app",
+            "icon-azure-list-web-app"
+        ],
+        "path": "/assets/images/azure-icons/appServices.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-app-service-environment",
+            "icon-azure-list-app-service-environment"
+        ],
+        "path": "/assets/images/azure-icons/App-Service-Environments.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-user",
+            "icon-azure-list-user"
+        ],
+        "path": "/assets/images/azure-icons/User.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-sql-managed-instance",
+            "icon-azure-list-sql-managed-instance"
+        ],
+        "path": "/assets/images/azure-icons/SQLManagedInstance.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-hd-insight",
+            "icon-azure-list-hd-insight"
+        ],
+        "path": "/assets/images/azure-icons/HDInsight-Clusters.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-data-explorer-cluster",
+            "icon-azure-list-data-explorer-cluster"
+        ],
+        "path": "/assets/images/azure-icons/Data-Explorer-Clusters.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-activity-log-monitor",
+            "icon-azure-list-activity-log-monitor"
+        ],
+        "path": "/assets/images/azure-icons/ActivityLogMonitor.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-activity-log-alert-rule",
+            "icon-azure-list-activity-log-alert-rule"
+        ],
+        "path": "/assets/images/azure-icons/ActivityLogAlertRule.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-api-management-service",
+            "icon-azure-list-api-management-service"
+        ],
+        "path": "/assets/images/azure-icons/API-Management-Services.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-insights",
+            "icon-azure-list-insights"
+        ],
+        "path": "/assets/images/azure-icons/00008-icon-service-Diagnostics-Settings.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-disk",
+            "icon-azure-list-disk"
+        ],
+        "path": "/assets/images/azure-icons/AzureComputeDisks.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-regional-waf",
+            "icon-azure-list-regional-waf"
+        ],
+        "path": "/assets/images/azure-icons/WAFPolicy.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-role-assignment",
+            "icon-azure-role-list-assignment"
+        ],
+        "path": "/assets/images/azure-icons/Subscriptions.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-role-definition",
+            "icon-azure-role-list-definition"
+        ],
+        "path": "/assets/images/azure-icons/Subscriptions.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-event-hub-namespace",
+            "icon-azure-list-event-hub-namespace"
+        ],
+        "path": "/assets/images/azure-icons/Azure-Event-Hubs.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-bastion",
+            "icon-azure-list-bastion"
+        ],
+        "path": "/assets/images/azure-icons/azure-bastion.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-maria-db",
+            "icon-azure-list-maria-db"
+        ],
+        "path": "/assets/images/azure-icons/Azure-Maria-DB.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-security-contact",
+            "icon-azure-list-security-contact"
+        ],
+        "path": "/assets/images/azure-icons/SecurityCenter.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-auto-provisioning-settings",
+            "icon-azure-list-auto-provisioning-settings"
+        ],
+        "path": "/assets/images/azure-icons/SecurityCenter.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-container-instance",
+            "icon-azure-list-container-instance"
+        ],
+        "path": "/assets/images/azure-icons/AzureContainerInstance.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-databricks-workspace",
+            "icon-azure-list-databricks-workspace"
+        ],
+        "path": "/assets/images/azure-icons/Azure-DatabricksWorkspace.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-my-sqldb-flexible-server",
+            "icon-azure-list-my-sqldb-flexible-server"
+        ],
+        "path": "/assets/images/azure-icons/Azure-Database-MySQL-Server.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-my-sqldb-single-server",
+            "icon-azure-list-my-sqldb-single-server"
+        ],
+        "path": "/assets/images/azure-icons/Azure-Database-MySQL-Server.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-spring-cloud",
+            "icon-azure-list-spring-cloud"
+        ],
+        "path": "/assets/images/azure-icons/Azure-service-Spring-Cloud.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-azure-cognitive-service",
+            "icon-azure-list-cognitive-service"
+        ],
+        "path": "/assets/images/azure-icons/AzureCognitiveServices.svg",
+        "platform": "azure",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-cloud"
+        ],
+        "path": "/assets/images/gcp/cloud-gcp.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-account",
+            "icon-google-account"
+        ],
+        "path": "/assets/images/icons/gcp.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "20px",
+            "14px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-security-group",
+            "icon-google-icon-gcp-security-group"
+        ],
+        "path": "/assets/images/gcp/Networking/Cloud-Virtual-Network.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-vm-instance",
+            "icon-google-cloud-vm-instance",
+            "icon-google-vm-instance",
+            "icon-gcp-list-vm-instance",
+            "icon-google-list-cloud-vm-instance",
+            "icon-google-list-vm-instance"
+        ],
+        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-firewall-rule",
+            "icon-gcp-list-firewall-rule",
+            "icon-google-firewall-rule",
+            "icon-google-list-firewall-rule"
+        ],
+        "path": "/assets/images/gcp/Networking/Cloud-Virtual-Network.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-network",
+            "icon-google-network",
+            "icon-gcp-list-network",
+            "icon-google-list-network"
+        ],
+        "path": "/assets/images/gcp/Networking/Cloud-Network.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-cloud-sql",
+            "icon-gcp-list-cloud-sql",
+            "icon-google-cloud-sql",
+            "icon-google-list-cloud-sql"
+        ],
+        "path": "/assets/images/gcp/google.sql.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-gcp-security-group",
+            "icon-google-gcp-security-group",
+            "icon-gcp-list-security-group",
+            "icon-google-list-security-group"
+        ],
+        "path": "/assets/images/gcp/Networking/cloud-firewall-rules.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-subnet",
+            "icon-google-subnet",
+            "icon-gcp-list-subnet",
+            "icon-google-list-subnet"
+        ],
+        "path": "/assets/images/gcp/logo-icon.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-image",
+            "icon-google-image",
+            "icon-gcp-list-image",
+            "icon-google-list-image"
+        ],
+        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-disk",
+            "icon-google-disk",
+            "icon-gcp-list-disk",
+            "icon-google-list-disk"
+        ],
+        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-router",
+            "icon-google-router",
+            "icon-gcp-list-router",
+            "icon-google-list-router"
+        ],
+        "path": "/assets/images/gcp/Compute/Cloud-Router.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-instance-template",
+            "icon-google-instance-template",
+            "icon-gcp-list-instance-template",
+            "icon-google-list-instance-template"
+        ],
+        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-storage-bucket",
+            "icon-google-storage-bucket",
+            "icon-gcp-list-storage-bucket",
+            "icon-google-list-storage-bucket"
+        ],
+        "path": "/assets/images/gcp/Storage and Databases/Cloud-Storage.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-redis",
+            "icon-google-redis",
+            "icon-gcp-list-redis",
+            "icon-google-list-redis"
+        ],
+        "path": "/assets/images/gcp/Storage and Databases/Cloud-Memorystore.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-project",
+            "icon-google-project",
+            "icon-gcp-list-project",
+            "icon-google-list-project"
+        ],
+        "path": "/assets/images/gcp/generic-gcp.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-service-account",
+            "icon-google-service-account",
+            "icon-gcp-list-service-account",
+            "icon-google-list-service-account"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-api-key",
+            "icon-google-api-key",
+            "icon-gcp-list-api-key",
+            "icon-google-list-api-key"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-kms-key-ring",
+            "icon-google-kms-key-ring",
+            "icon-gcp-list-kms-key-ring",
+            "icon-google-list-kms-key-ring"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/kms.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-gcp-iam-policy",
+            "icon-google-gcp-iam-policy",
+            "icon-gcp-list-gcp-iam-policy",
+            "icon-google-list-gcp-iam-policy"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-gcp-iam-user",
+            "icon-google-gcp-iam-user",
+            "icon-gcp-list-gcp-iam-user",
+            "icon-google-list-gcp-iam-user"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-gcp-iam-role",
+            "icon-google-gcp-iam-role",
+            "icon-gcp-list-gcp-iam-role",
+            "icon-google-list-gcp-iam-role"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-gcp-iam-group",
+            "icon-google-gcp-iam-group",
+            "icon-gcp-list-gcp-iam-group",
+            "icon-google-list-gcp-iam-group"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-big-query",
+            "icon-google-big-query",
+            "icon-gcp-list-big-query",
+            "icon-google-list-big-query"
+        ],
+        "path": "/assets/images/gcp/Big Data/BigQuery.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-big-query-table",
+            "icon-google-big-query-table",
+            "icon-gcp-list-big-query-table",
+            "icon-google-list-big-query-table"
+        ],
+        "path": "/assets/images/gcp/Big Data/BigQuery.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-gke-cluster",
+            "icon-google-gke-cluster",
+            "icon-gcp-list-gke-cluster",
+            "icon-google-list-gke-cluster"
+        ],
+        "path": "/assets/images/gcp/Extras/Kubernetes_logo.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-cloud-function",
+            "icon-google-cloud-function",
+            "icon-gcp-list-cloud-function",
+            "icon-google-list-cloud-function"
+        ],
+        "path": "/assets/images/gcp/Compute/Cloud-Functions.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-big-table",
+            "icon-google-big-table",
+            "icon-gcp-list-big-table",
+            "icon-google-list-big-table"
+        ],
+        "path": "/assets/images/gcp/Storage and Databases/Cloud-Bigtable.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-pub-sub-topic",
+            "icon-google-pub-sub-topic",
+            "icon-gcp-list-pub-sub-topic",
+            "icon-google-list-pub-sub-topic"
+        ],
+        "path": "/assets/images/gcp/Big Data/Cloud-PubSub.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-app-engine",
+            "icon-google-app-engine",
+            "icon-gcp-list-app-engine",
+            "icon-google-list-app-engine"
+        ],
+        "path": "/assets/images/gcp/Compute/App-Engine.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-filestore-instance",
+            "icon-google-filestore-instance",
+            "icon-gcp-list-filestore-instance",
+            "icon-google-list-filestore-instance"
+        ],
+        "path": "/assets/images/gcp/Storage and Databases/Filestore.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-url-map",
+            "icon-google-url-map",
+            "icon-gcp-list-url-map",
+            "icon-google-list-url-map"
+        ],
+        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-tcp-udp-load-balancer-target-pool",
+            "icon-google-tcp-udp-load-balancer-target-pool",
+            "icon-gcp-list-tcp-udp-load-balancer-target-pool",
+            "icon-google-list-tcp-udp-load-balancer-target-pool"
+        ],
+        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-route",
+            "icon-google-route",
+            "icon-gcp-list-route",
+            "icon-google-list-route"
+        ],
+        "path": "/assets/images/gcp/Networking/Cloud-Route.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-alert-policy",
+            "icon-google-alert-policy",
+            "icon-gcp-list-alert-policy",
+            "icon-google-list-alert-policy"
+        ],
+        "path": "/assets/images/gcp/Management Tools/Monitoring.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-log-based-metric",
+            "icon-google-log-based-metric",
+            "icon-gcp-list-log-based-metric",
+            "icon-google-list-log-based-metric"
+        ],
+        "path": "/assets/images/gcp/Management Tools/Logging.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-log-sink",
+            "icon-google-log-sink",
+            "icon-gcp-list-log-sink",
+            "icon-google-list-log-sink"
+        ],
+        "path": "/assets/images/gcp/Management Tools/Logging.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-load-balancer-ssl-policy",
+            "icon-google-load-balancer-ssl-policy",
+            "icon-gcp-list-load-balancer-ssl-policy",
+            "icon-google-list-load-balancer-ssl-policy"
+        ],
+        "path": "/assets/images/gcp/Compute/Ssl_Policy.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-backend-service",
+            "icon-google-backend-service",
+            "icon-gcp-list-backend-service",
+            "icon-google-list-backend-service"
+        ],
+        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-log-bucket",
+            "icon-google-log-bucket",
+            "icon-gcp-list-log-bucket",
+            "icon-google-list-log-bucket"
+        ],
+        "path": "/assets/images/gcp/Management Tools/Logging.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-forwarding-rule",
+            "icon-google-forwarding-rule",
+            "icon-gcp-list-forwarding-rule",
+            "icon-google-list-forwarding-rule"
+        ],
+        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-dns-managed-zone",
+            "icon-google-dns-managed-zone",
+            "icon-gcp-list-dns-managed-zone",
+            "icon-google-list-dns-managed-zone"
+        ],
+        "path": "/assets/images/gcp/Networking/Cloud-DNS.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-tcp-load-balancer-target-proxy",
+            "icon-google-tcp-load-balancer-target-proxy",
+            "icon-gcp-list-tcp-load-balancer-target-proxy",
+            "icon-google-list-tcp-load-balancer-target-proxy"
+        ],
+        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-https-load-balancer-target-proxy",
+            "icon-google-https-load-balancer-target-proxy",
+            "icon-gcp-list-https-load-balancer-target-proxy",
+            "icon-google-list-https-load-balancer-target-proxy"
+        ],
+        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-ssl-load-balancer-target-proxy",
+            "icon-google-ssl-load-balancer-target-proxy",
+            "icon-gcp-list-ssl-load-balancer-target-proxy",
+            "icon-google-list-ssl-load-balancer-target-proxy"
+        ],
+        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-dataproc-cluster",
+            "icon-google-dataproc-cluster",
+            "icon-gcp-list-dataproc-cluster",
+            "icon-google-list-dataproc-cluster"
+        ],
+        "path": "/assets/images/gcp/Big Data/Cloud-Dataproc.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-gcp-essential-contact",
+            "icon-google-essential-contact",
+            "icon-gcp-list-essential-contact",
+            "icon-google-list-essential-contact"
+        ],
+        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "platform": "gcp",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-account"
+        ],
+        "path": "/assets/images/alibaba/alibaba.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-security-group",
+            "icon-alibaba-vpm"
+        ],
+        "path": "/assets/images/alibaba/alibaba.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-ram-user",
+            "icon-alibaba-acs-ram-role",
+            "icon-alibaba-ram-role",
+            "icon-alibaba-ram-policy",
+            "icon-alibaba-ram-group",
+            "icon-alibaba-ram-password-policy"
+        ],
+        "path": "/assets/images/alibaba/ram.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-vpc",
+            "icon-alibaba-v-switch"
+        ],
+        "path": "/assets/images/alibaba/vpc.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-oss-bucket"
+        ],
+        "path": "/assets/images/alibaba/oss.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-ecs-disk",
+            "icon-alibaba-ecs-instance"
+        ],
+        "path": "/assets/images/alibaba/ecs.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-nas"
+        ],
+        "path": "/assets/images/alibaba/NAS.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-kms"
+        ],
+        "path": "/assets/images/alibaba/AlibabaKMS.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-action-trail"
+        ],
+        "path": "/assets/images/alibaba/ActionTrail.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-slb"
+        ],
+        "path": "/assets/images/alibaba/SLB.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-auto-scaling-group"
+        ],
+        "path": "/assets/images/alibaba/AutoScalingGroup.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-rds-db-instance"
+        ],
+        "path": "/assets/images/alibaba/rds_mariadb.svg",
+        "platform": "alibaba",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-account",
+            "icon-kubernetesruntimeassurance-account"
+        ],
+        "path": "/assets/images/kubernetes/icons/kubernetes.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-containerregistry-account"
+        ],
+        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-pod"
+        ],
+        "path": "/assets/images/kubernetes/icons/k8pod.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-node"
+        ],
+        "path": "/assets/images/kubernetes/icons/k8node.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-service"
+        ],
+        "path": "/assets/images/kubernetes/icons/k8service.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-ingress"
+        ],
+        "path": "/assets/images/kubernetes/icons/ing.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-image"
+        ],
+        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-containerregistry-container-registry-image"
+        ],
+        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-aws-ecs-image"
+        ],
+        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-network-policy"
+        ],
+        "path": "/assets/images/kubernetes/icons/netpol.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-role"
+        ],
+        "path": "/assets/images/kubernetes/icons/c-role.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-role-binding"
+        ],
+        "path": "/assets/images/kubernetes/icons/crb.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-service-account"
+        ],
+        "path": "/assets/images/kubernetes/icons/sa.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-namespace"
+        ],
+        "path": "/assets/images/kubernetes/icons/ns.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-cluster"
+        ],
+        "path": "/assets/images/kubernetes/icons/kubernetes.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-pod-security-policy"
+        ],
+        "path": "/assets/images/kubernetes/icons/psp.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-daemon-set"
+        ],
+        "path": "/assets/images/kubernetes/icons/ds.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-deployment"
+        ],
+        "path": "/assets/images/kubernetes/icons/deploy.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-replica-set"
+        ],
+        "path": "/assets/images/kubernetes/icons/rs.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-stateful-set"
+        ],
+        "path": "/assets/images/kubernetes/icons/sts.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-job"
+        ],
+        "path": "/assets/images/kubernetes/icons/job.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-kubernetes-cron-job"
+        ],
+        "path": "/assets/images/kubernetes/icons/cronjob.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-openshift-security-context-constraint"
+        ],
+        "path": "/assets/images/kubernetes/icons/openshift.svg",
+        "platform": "kubernetes",
+        "type": "",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-terraform",
+            "icon-terraform-account"
+        ],
+        "path": "/assets/images/icons/terraform.png",
+        "size": [
+            "20px",
+            "20px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-cft",
+            "icon-cft-account"
+        ],
+        "path": "/assets/images/icons/cft.png",
+        "size": [
+            "20px",
+            "20px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-terraform-asset"
+        ],
+        "path": "/assets/images/icons/terraform.png",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-cft-asset"
+        ],
+        "path": "/assets/images/icons/cft.png",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "checkpoint-infinity-portal"
+        ],
+        "path": "/assets/images/checkpoint/infinity_portal.svg"
+    },
+    {
+        "classNames": [
+            "topic-asset-management"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_asset_management_asset_management.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-shiftleft"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_shiftleft.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-logs"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_logs.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-posture-management"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_posture_management_posture_namagement.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-workload-protection"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_workload_protection.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-serverless"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_serverless.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-overview"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_overview.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-events"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_events.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-iam-protection"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_iam_protection_iam_protection.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-investigate"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_investigate.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-manage-and-settings"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_manage_and_settings.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-iam-protection"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_iam_protection_iam_protection.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-settings"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_settings.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-tree-help"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_tree_help.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "topic-network"
+        ],
+        "path": "/assets/icons/checkpoint/topic/topic_network.svg",
+        "size": [
+            "26px",
+            "26px"
+        ]
+    },
+    {
+        "classNames": [
+            "add"
+        ],
+        "path": "/assets/icons/checkpoint/actions/add.svg",
+        "size": [
+            "13px",
+            "13px"
+        ]
+    },
+    {
+        "classNames": [
+            "control-search-arrow-down"
+        ],
+        "path": "/assets/icons/checkpoint/control_search_arrow_down.svg",
+        "size": [
+            "8px",
+            "8px"
+        ]
+    },
+    {
+        "classNames": [
+            "search-magnifiy"
+        ],
+        "path": "/assets/icons/checkpoint/search_magnifiy.svg",
+        "size": [
+            "13px",
+            "13px"
+        ]
+    },
+    {
+        "classNames": [
+            "favorite"
+        ],
+        "path": "/assets/icons/checkpoint/favorite.svg",
+        "size": [
+            "12px",
+            "12px"
+        ]
+    },
+    {
+        "classNames": [
+            "cancel-on-button"
+        ],
+        "path": "/assets/icons/checkpoint/cancel_on_button.svg",
+        "size": [
+            "13px",
+            "13px"
+        ]
+    },
+    {
+        "classNames": [
+            "export-to-excel"
+        ],
+        "path": "/assets/icons/checkpoint/export_to_excel.svg",
+        "size": [
+            "29px",
+            "29px"
+        ]
+    },
+    {
+        "classNames": [
+            "spinner-small-animation"
+        ],
+        "path": "/assets/icons/checkpoint/spinner_small_animation.svg",
+        "size": [
+            "13px",
+            "13px"
+        ]
+    },
+    {
+        "classNames": [
+            "spinner-animation"
+        ],
+        "path": "/assets/icons/checkpoint/spinner_animation.svg",
+        "size": [
+            "29px",
+            "29px"
+        ]
+    },
+    {
+        "classNames": [
+            "pinned"
+        ],
+        "path": "/assets/icons/checkpoint/unpin.svg",
+        "size": [
+            "12px",
+            "12px"
+        ]
+    },
+    {
+        "classNames": [
+            "info"
+        ],
+        "path": "/assets/icons/checkpoint/info.svg",
+        "size": [
+            "13px",
+            "13px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-placeholder"
+        ],
+        "path": "/assets/images/icons/cloud.svg",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-serverless-runtime-protection"
+        ],
+        "path": "/assets/images/serverless/runtime_protection.svg",
+        "size": [
+            "18px",
+            "18px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-serverless-runtime-protection-in-progress"
+        ],
+        "path": "/assets/images/serverless/runtime_protection_in_progress.svg",
+        "size": [
+            "18px",
+            "18px"
+        ]
+    }
+]
