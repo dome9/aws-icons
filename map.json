@@ -3346,7 +3346,7 @@
         ],
         "path": "/assets/images/alibaba/alibaba.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "SecurityGroup",
         "size": [
             "16px",
             "16px"
@@ -3354,16 +3354,35 @@
     },
     {
         "classNames": [
-            "icon-alibaba-ram-user",
-            "icon-alibaba-acs-ram-role",
-            "icon-alibaba-ram-role",
-            "icon-alibaba-ram-policy",
-            "icon-alibaba-ram-group",
+            "icon-alibaba-ram-user"
+        ],
+        "path": "/assets/images/TBD",
+        "platform": "alibaba",
+        "type": "RamUser",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-ram-group"
+        ],
+        "path": "/assets/images/TBD",
+        "platform": "alibaba",
+        "type": "RamGroup",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
             "icon-alibaba-ram-password-policy"
         ],
-        "path": "/assets/images/alibaba/ram.svg",
+        "path": "/assets/images/TBD",
         "platform": "alibaba",
-        "type": "",
+        "type": "RamPasswordPolicy",
         "size": [
             "16px",
             "16px"
@@ -3371,12 +3390,47 @@
     },
     {
         "classNames": [
-            "icon-alibaba-vpc",
-            "icon-alibaba-v-switch"
+            "icon-alibaba-ram-role"
+        ],
+        "path": "/assets/images/TBD",
+        "platform": "alibaba",
+        "type": "RamRole",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-ram-policy"
+        ],
+        "path": "/assets/images/TBD",
+        "platform": "alibaba",
+        "type": "RamPolicy",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-vpc"
         ],
         "path": "/assets/images/alibaba/vpc.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "VPC",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-v-switch"
+        ],
+        "path": "/assets/images/TBD",
+        "platform": "alibaba",
+        "type": "VSwitch",
         "size": [
             "16px",
             "16px"
@@ -3388,7 +3442,7 @@
         ],
         "path": "/assets/images/alibaba/oss.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "OssBucket",
         "size": [
             "16px",
             "16px"
@@ -3396,12 +3450,23 @@
     },
     {
         "classNames": [
-            "icon-alibaba-ecs-disk",
             "icon-alibaba-ecs-instance"
         ],
         "path": "/assets/images/alibaba/ecs.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "EcsInstance",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-alibaba-ecs-disk"
+        ],
+        "path": "/assets/images/alibaba/ecs.svg",
+        "platform": "alibaba",
+        "type": "EcsDisk",
         "size": [
             "16px",
             "16px"
@@ -3413,7 +3478,7 @@
         ],
         "path": "/assets/images/alibaba/NAS.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "NAS",
         "size": [
             "16px",
             "16px"
@@ -3425,7 +3490,7 @@
         ],
         "path": "/assets/images/alibaba/AlibabaKMS.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "KMS",
         "size": [
             "16px",
             "16px"
@@ -3437,7 +3502,7 @@
         ],
         "path": "/assets/images/alibaba/ActionTrail.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "ActionTrail",
         "size": [
             "16px",
             "16px"
@@ -3449,7 +3514,7 @@
         ],
         "path": "/assets/images/alibaba/SLB.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "SLB",
         "size": [
             "16px",
             "16px"
@@ -3461,7 +3526,7 @@
         ],
         "path": "/assets/images/alibaba/AutoScalingGroup.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "AutoScalingGroup",
         "size": [
             "16px",
             "16px"
@@ -3473,7 +3538,7 @@
         ],
         "path": "/assets/images/alibaba/rds_mariadb.svg",
         "platform": "alibaba",
-        "type": "",
+        "type": "RdsDbInstance",
         "size": [
             "16px",
             "16px"
@@ -3510,7 +3575,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/k8pod.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesPod",
         "size": [
             "16px",
             "16px"
@@ -3522,7 +3587,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/k8node.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesNode",
         "size": [
             "16px",
             "16px"
@@ -3534,7 +3599,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/k8service.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesService",
         "size": [
             "16px",
             "16px"
@@ -3546,7 +3611,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/ing.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesIngress",
         "size": [
             "16px",
             "16px"
@@ -3558,7 +3623,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/docker.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesImage",
         "size": [
             "16px",
             "16px"
@@ -3570,7 +3635,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/docker.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "ContainerRegistryImage",
         "size": [
             "16px",
             "16px"
@@ -3582,7 +3647,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/docker.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "EcsImage",
         "size": [
             "16px",
             "16px"
@@ -3594,7 +3659,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/netpol.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesNetworkPolicy",
         "size": [
             "16px",
             "16px"
@@ -3606,7 +3671,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/c-role.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesRole",
         "size": [
             "16px",
             "16px"
@@ -3618,7 +3683,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/crb.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesRoleBinding",
         "size": [
             "16px",
             "16px"
@@ -3630,7 +3695,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/sa.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesServiceAccount",
         "size": [
             "16px",
             "16px"
@@ -3642,7 +3707,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/ns.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesNamespace",
         "size": [
             "16px",
             "16px"
@@ -3654,7 +3719,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/kubernetes.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesCluster",
         "size": [
             "16px",
             "16px"
@@ -3666,7 +3731,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/psp.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesPodSecurityPolicy",
         "size": [
             "16px",
             "16px"
@@ -3678,7 +3743,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/ds.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesDaemonSet",
         "size": [
             "16px",
             "16px"
@@ -3690,7 +3755,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/deploy.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesDeployment",
         "size": [
             "16px",
             "16px"
@@ -3702,7 +3767,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/rs.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesReplicaSet",
         "size": [
             "16px",
             "16px"
@@ -3714,7 +3779,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/sts.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesStatefulSet",
         "size": [
             "16px",
             "16px"
@@ -3726,7 +3791,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/job.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesJob",
         "size": [
             "16px",
             "16px"
@@ -3738,7 +3803,7 @@
         ],
         "path": "/assets/images/kubernetes/icons/cronjob.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "KubernetesCronJob",
         "size": [
             "16px",
             "16px"
@@ -3750,7 +3815,19 @@
         ],
         "path": "/assets/images/kubernetes/icons/openshift.svg",
         "platform": "kubernetes",
-        "type": "",
+        "type": "OpenshiftSecurityContextConstraint",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
+            "icon-kubernetes-openshift-security-context-constraint"
+        ],
+        "path": "/assets/images/kubernetes/icons/openshift.svg",
+        "platform": "Dome9",
+        "type": "Agent",
         "size": [
             "16px",
             "16px"
