@@ -462,19 +462,6 @@
     },
     {
         "classNames": [
-            "icon-aws-access-analyzer",
-            "icon-aws-list-access-analyzer"
-        ],
-        "path": "/assets/images/azure-icons/AnalysisServices.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
             "icon-aws-cloud-trail",
             "icon-aws-list-cloud-trail"
         ],
@@ -2677,7 +2664,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "VMInstance",
         "size": [
             "16px",
             "16px"
@@ -2719,7 +2706,7 @@
         ],
         "path": "/assets/images/gcp/Networking/Cloud-Network.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "Network",
         "size": [
             "16px",
             "16px"
@@ -2734,7 +2721,7 @@
         ],
         "path": "/assets/images/gcp/google.sql.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "CloudSql",
         "size": [
             "16px",
             "16px"
@@ -2779,7 +2766,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "Image",
         "size": [
             "16px",
             "16px"
@@ -2794,7 +2781,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "Disk",
         "size": [
             "16px",
             "16px"
@@ -2809,7 +2796,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Cloud-Router.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "Router",
         "size": [
             "16px",
             "16px"
@@ -2824,7 +2811,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "InstanceTemplate",
         "size": [
             "16px",
             "16px"
@@ -2839,7 +2826,7 @@
         ],
         "path": "/assets/images/gcp/Storage and Databases/Cloud-Storage.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "StorageBucket",
         "size": [
             "16px",
             "16px"
@@ -2854,7 +2841,7 @@
         ],
         "path": "/assets/images/gcp/Storage and Databases/Cloud-Memorystore.png",
         "platform": "gcp",
-        "type": "",
+        "type": "Redis",
         "size": [
             "16px",
             "16px"
@@ -2884,7 +2871,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "ServiceAccount",
         "size": [
             "16px",
             "16px"
@@ -2899,7 +2886,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "APIKey",
         "size": [
             "16px",
             "16px"
@@ -2914,7 +2901,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/kms.png",
         "platform": "gcp",
-        "type": "",
+        "type": "KmsKeyRing",
         "size": [
             "16px",
             "16px"
@@ -2929,7 +2916,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "GcpIamPolicy",
         "size": [
             "16px",
             "16px"
@@ -2944,7 +2931,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
         "platform": "gcp",
-        "type": "",
+        "type": "GcpIamUser",
         "size": [
             "16px",
             "16px"
@@ -2959,7 +2946,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
         "platform": "gcp",
-        "type": "",
+        "type": "GcpIamRole",
         "size": [
             "16px",
             "16px"
@@ -2974,7 +2961,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
         "platform": "gcp",
-        "type": "",
+        "type": "GcpIamGroup",
         "size": [
             "16px",
             "16px"
@@ -2989,7 +2976,7 @@
         ],
         "path": "/assets/images/gcp/Big Data/BigQuery.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "BigQuery",
         "size": [
             "16px",
             "16px"
@@ -3004,7 +2991,7 @@
         ],
         "path": "/assets/images/gcp/Big Data/BigQuery.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "BigQueryTable",
         "size": [
             "16px",
             "16px"
@@ -3019,7 +3006,7 @@
         ],
         "path": "/assets/images/gcp/Extras/Kubernetes_logo.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "GkeCluster",
         "size": [
             "16px",
             "16px"
@@ -3034,7 +3021,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Cloud-Functions.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "CloudFunction",
         "size": [
             "16px",
             "16px"
@@ -3049,7 +3036,7 @@
         ],
         "path": "/assets/images/gcp/Storage and Databases/Cloud-Bigtable.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "BigTable",
         "size": [
             "16px",
             "16px"
@@ -3064,7 +3051,7 @@
         ],
         "path": "/assets/images/gcp/Big Data/Cloud-PubSub.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "PubSubTopic",
         "size": [
             "16px",
             "16px"
@@ -3079,7 +3066,7 @@
         ],
         "path": "/assets/images/gcp/Compute/App-Engine.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "AppEngine",
         "size": [
             "16px",
             "16px"
@@ -3094,7 +3081,7 @@
         ],
         "path": "/assets/images/gcp/Storage and Databases/Filestore.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "FilestoreInstance",
         "size": [
             "16px",
             "16px"
@@ -3109,7 +3096,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "UrlMap",
         "size": [
             "16px",
             "16px"
@@ -3124,7 +3111,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "TcpUdpLoadBalancerTargetPool",
         "size": [
             "16px",
             "16px"
@@ -3139,7 +3126,7 @@
         ],
         "path": "/assets/images/gcp/Networking/Cloud-Route.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "Route",
         "size": [
             "16px",
             "16px"
@@ -3154,7 +3141,7 @@
         ],
         "path": "/assets/images/gcp/Management Tools/Monitoring.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "AlertPolicy",
         "size": [
             "16px",
             "16px"
@@ -3169,7 +3156,7 @@
         ],
         "path": "/assets/images/gcp/Management Tools/Logging.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "LogBasedMetric",
         "size": [
             "16px",
             "16px"
@@ -3184,7 +3171,7 @@
         ],
         "path": "/assets/images/gcp/Management Tools/Logging.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "LogSink",
         "size": [
             "16px",
             "16px"
@@ -3199,7 +3186,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Ssl_Policy.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "LoadBalancerSslPolicy",
         "size": [
             "16px",
             "16px"
@@ -3214,7 +3201,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "BackendService",
         "size": [
             "16px",
             "16px"
@@ -3229,7 +3216,7 @@
         ],
         "path": "/assets/images/gcp/Management Tools/Logging.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "LogBucket",
         "size": [
             "16px",
             "16px"
@@ -3244,7 +3231,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "ForwardingRule",
         "size": [
             "16px",
             "16px"
@@ -3259,7 +3246,7 @@
         ],
         "path": "/assets/images/gcp/Networking/Cloud-DNS.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "DnsManagedZone",
         "size": [
             "16px",
             "16px"
@@ -3274,7 +3261,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "TcpLoadBalancerTargetProxy",
         "size": [
             "16px",
             "16px"
@@ -3289,7 +3276,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "HttpsLoadBalancerTargetProxy",
         "size": [
             "16px",
             "16px"
@@ -3304,7 +3291,7 @@
         ],
         "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "SslLoadBalancerTargetProxy",
         "size": [
             "16px",
             "16px"
@@ -3319,7 +3306,7 @@
         ],
         "path": "/assets/images/gcp/Big Data/Cloud-Dataproc.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "DataprocCluster",
         "size": [
             "16px",
             "16px"
@@ -3334,7 +3321,7 @@
         ],
         "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
-        "type": "",
+        "type": "EssentialContact",
         "size": [
             "16px",
             "16px"
