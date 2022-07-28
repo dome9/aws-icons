@@ -508,7 +508,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-CloudFormation_Stack.svg",
         "platform": "aws",
-        "type": "",
+        "type": "CloudFormationStack",
         "size": [
             "16px",
             "16px"
@@ -521,7 +521,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Analytics/Amazon-Kinesis-Firehose.svg",
         "platform": "aws",
-        "type": "",
+        "type": "KinesisFirehose",
         "size": [
             "16px",
             "16px"
@@ -534,7 +534,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Analytics/AWS_Msk_Cluster.png",
         "platform": "aws",
-        "type": "",
+        "type": "MskCluster",
         "size": [
             "16px",
             "16px"
@@ -680,7 +680,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SQS.png",
         "platform": "aws",
-        "type": "",
+        "type": "Sqs",
         "size": [
             "16px",
             "16px"
@@ -693,7 +693,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_VPCNATgateway.png",
         "platform": "aws",
-        "type": "",
+        "type": "NatGateway",
         "size": [
             "16px",
             "16px"
@@ -758,7 +758,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Database/RDSDBSnapshot.png",
         "platform": "aws",
-        "type": "",
+        "type": "RDSDBSnapshot",
         "size": [
             "16px",
             "16px"
@@ -771,7 +771,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Database/RDS_Cluster.png",
         "platform": "aws",
-        "type": "",
+        "type": "RDSDBCluster",
         "size": [
             "16px",
             "16px"
@@ -821,7 +821,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ManagementTools/Aws-CloudWatch.svg",
         "platform": "aws",
-        "type": "",
+        "type": "LogGroup",
         "size": [
             "16px",
             "16px"
@@ -847,7 +847,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Storage/Storage-Gateway.png",
         "platform": "aws",
-        "type": "",
+        "type": "StorageGateway",
         "size": [
             "16px",
             "16px"
@@ -913,7 +913,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ECR.svg",
         "platform": "aws",
-        "type": "",
+        "type": "EcrRepository",
         "size": [
             "16px",
             "16px"
@@ -1136,7 +1136,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
         "platform": "aws",
-        "type": "",
+        "type": "SnsTopic",
         "size": [
             "16px",
             "16px"
@@ -1149,7 +1149,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
         "platform": "aws",
-        "type": "",
+        "type": "SnsPlatformApplication",
         "size": [
             "16px",
             "16px"
@@ -1162,7 +1162,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SimpleEmail.svg",
         "platform": "aws",
-        "type": "",
+        "type": "SES",
         "size": [
             "16px",
             "16px"
@@ -1240,7 +1240,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/CustomDomainName.png",
         "platform": "aws",
-        "type": "",
+        "type": "CustomDomainName",
         "size": [
             "16px",
             "16px"
@@ -1268,7 +1268,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/EndUserComputing/aws-workspace.svg",
         "platform": "aws",
-        "type": "",
+        "type": "Workspace",
         "size": [
             "16px",
             "16px"
@@ -1281,7 +1281,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-sagemaker_trainingjob.svg",
         "platform": "aws",
-        "type": "",
+        "type": "SageMakerTrainingJob",
         "size": [
             "16px",
             "16px"
@@ -1355,7 +1355,7 @@
         ],
         "path": "/assets/images/clarity/aws.png",
         "platform": "aws",
-        "type": "",
+        "type": "Account",
         "size": [
             "16px",
             "16px"
@@ -1428,7 +1428,7 @@
         ],
         "path": "/assets/images/clarity/elasticbeanstalk.svg",
         "platform": "aws",
-        "type": "",
+        "type": "ElasticBeanstalk",
         "size": [
             "16px",
             "16px"
@@ -1476,7 +1476,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-Config.svg",
         "platform": "aws",
-        "type": "",
+        "type": "ConfigSetting",
         "size": [
             "16px",
             "16px"
@@ -1489,7 +1489,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/General/aws-organizations.svg",
         "platform": "aws",
-        "type": "",
+        "type": "Organization",
         "size": [
             "16px",
             "16px"
@@ -1502,7 +1502,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonTransitGateway.svg",
         "platform": "aws",
-        "type": "",
+        "type": "TransitGateway",
         "size": [
             "16px",
             "16px"
@@ -1515,7 +1515,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/AWS-Step-Functions.png",
         "platform": "aws",
-        "type": "",
+        "type": "StepFunctionStateMachine",
         "size": [
             "16px",
             "16px"
@@ -1528,7 +1528,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AwsSecretManager.svg",
         "platform": "aws",
-        "type": "",
+        "type": "SecretManager",
         "size": [
             "16px",
             "16px"
@@ -1542,7 +1542,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
         "platform": "aws",
-        "type": "",
+        "type": "TranscribeJob",
         "size": [
             "16px",
             "16px"
@@ -1555,7 +1555,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
         "platform": "aws",
-        "type": "",
+        "type": "TranscribeMedicalJob",
         "size": [
             "16px",
             "16px"
@@ -1568,7 +1568,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
         "platform": "aws",
-        "type": "",
+        "type": "CognitoUserPool",
         "size": [
             "16px",
             "16px"
@@ -1581,7 +1581,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
         "platform": "aws",
-        "type": "",
+        "type": "CognitoIdentityPool",
         "size": [
             "16px",
             "16px"
@@ -1594,7 +1594,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Transfer-Family.svg",
         "platform": "aws",
-        "type": "",
+        "type": "Transfer",
         "size": [
             "16px",
             "16px"
@@ -1607,7 +1607,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Personalize.svg",
         "platform": "aws",
-        "type": "",
+        "type": "Personalize",
         "size": [
             "16px",
             "16px"
@@ -1620,7 +1620,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-Systems-Manager_Parameter-Store.svg",
         "platform": "aws",
-        "type": "",
+        "type": "SystemManagerParameter",
         "size": [
             "16px",
             "16px"
@@ -1633,7 +1633,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
         "platform": "aws",
-        "type": "",
+        "type": "GlueSecurityConfiguration",
         "size": [
             "16px",
             "16px"
@@ -1646,7 +1646,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
         "platform": "aws",
-        "type": "",
+        "type": "GlueConnection",
         "size": [
             "16px",
             "16px"
@@ -1659,7 +1659,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/Amazon-MQ.png",
         "platform": "aws",
-        "type": "",
+        "type": "MqBroker",
         "size": [
             "16px",
             "16px"
@@ -1673,7 +1673,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/AWS-Network-Firewall_Icon.png",
         "platform": "aws",
-        "type": "",
+        "type": "NetworkFirewall",
         "size": [
             "16px",
             "16px"
@@ -1686,7 +1686,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
         "platform": "aws",
-        "type": "",
+        "type": "TranslationJob",
         "size": [
             "16px",
             "16px"
@@ -1699,7 +1699,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Analytics/Amazon-Athena.svg",
         "platform": "aws",
-        "type": "",
+        "type": "AthenaWorkGroup",
         "size": [
             "16px",
             "16px"
@@ -1712,7 +1712,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
         "platform": "aws",
-        "type": "",
+        "type": "TranslationTerminology",
         "size": [
             "16px",
             "16px"
@@ -1725,7 +1725,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ManagementTools/awssystemmanagerdocument.svg",
         "platform": "aws",
-        "type": "",
+        "type": "SystemManagerDocument",
         "size": [
             "16px",
             "16px"
@@ -1738,7 +1738,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Database-Migration.svg",
         "platform": "aws",
-        "type": "",
+        "type": "DmsEndpoint",
         "size": [
             "16px",
             "16px"
@@ -1764,7 +1764,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Shield.svg",
         "platform": "aws",
-        "type": "",
+        "type": "Shield",
         "size": [
             "16px",
             "16px"
@@ -1777,7 +1777,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Storage/Backup.svg",
         "platform": "aws",
-        "type": "",
+        "type": "BackupVault",
         "size": [
             "16px",
             "16px"
@@ -1790,7 +1790,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
         "platform": "aws",
-        "type": "",
+        "type": "IamSAMLProvider",
         "size": [
             "16px",
             "16px"
@@ -1803,7 +1803,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
         "platform": "aws",
-        "type": "",
+        "type": "IamOpenIdConnectProvider",
         "size": [
             "16px",
             "16px"
@@ -1812,13 +1812,24 @@
     {
         "classNames": [
             "icon-aws-f-sx",
-            "icon-aws-list-f-sx",
+            "icon-aws-list-f-sx"
+        ],
+        "path": "/assets/images/AWSSimpleIcons/Storage/Amazon-FSx.svg",
+        "platform": "aws",
+        "type": "FSx",
+        "size": [
+            "16px",
+            "16px"
+        ]
+    },
+    {
+        "classNames": [
             "icon-aws-f-sx-backup",
             "icon-aws-list-f-sx-backup"
         ],
         "path": "/assets/images/AWSSimpleIcons/Storage/Amazon-FSx.svg",
         "platform": "aws",
-        "type": "",
+        "type": "FSxBackup",
         "size": [
             "16px",
             "16px"
