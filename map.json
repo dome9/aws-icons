@@ -480,7 +480,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/ManagementTools/Management-Tools_AWSCloudTrail.png",
         "platform": "aws",
-        "type": "",
+        "type": "CloudTrail",
         "size": [
             "16px",
             "16px"
@@ -494,7 +494,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM_role.png",
         "platform": "aws",
-        "type": "",
+        "type": "IamRole",
         "size": [
             "16px",
             "16px"
@@ -575,7 +575,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/General/General_user.png",
         "platform": "aws",
-        "type": "",
+        "type": "IamUser",
         "size": [
             "16px",
             "16px"
@@ -602,7 +602,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSKMS.png",
         "platform": "aws",
-        "type": "",
+        "type": "KMS",
         "size": [
             "16px",
             "16px"
@@ -615,7 +615,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/General/General_virtualprivatecloud.png",
         "platform": "aws",
-        "type": "",
+        "type": "VPC",
         "size": [
             "20px",
             "13px"
@@ -629,7 +629,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/Lambda.png",
         "platform": "aws",
-        "type": "",
+        "type": "Lambda",
         "size": [
             "16px",
             "16px"
@@ -642,7 +642,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
         "platform": "aws",
-        "type": "",
+        "type": "ELB",
         "size": [
             "16px",
             "16px"
@@ -655,7 +655,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/EC2_AutoScaling.png",
         "platform": "aws",
-        "type": "",
+        "type": "ApplicationAutoScalingPolicy",
         "size": [
             "16px",
             "16px"
@@ -719,7 +719,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
         "platform": "aws",
-        "type": "",
+        "type": "NetworkLoadBalancer",
         "size": [
             "16px",
             "16px"
@@ -732,7 +732,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
         "platform": "aws",
-        "type": "",
+        "type": "GatewayLoadBalancer",
         "size": [
             "16px",
             "16px"
@@ -745,7 +745,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Database/RDS.png",
         "platform": "aws",
-        "type": "",
+        "type": "RDS",
         "size": [
             "16px",
             "16px"
@@ -834,7 +834,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Storage/AmazonEFS.png",
         "platform": "aws",
-        "type": "",
+        "type": "EFS",
         "size": [
             "16px",
             "16px"
@@ -860,7 +860,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Database/ElasticCache.png",
         "platform": "aws",
-        "type": "",
+        "type": "ElastiCache",
         "size": [
             "16px",
             "16px"
@@ -874,7 +874,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
-        "type": "",
+        "type": "EcsCluster",
         "size": [
             "16px",
             "16px"
@@ -887,7 +887,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/EKS.svg",
         "platform": "aws",
-        "type": "",
+        "type": "EksCluster",
         "size": [
             "16px",
             "16px"
@@ -900,7 +900,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
-        "type": "",
+        "type": "EcsTaskDefinition",
         "size": [
             "16px",
             "16px"
@@ -926,7 +926,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonCloudFront.png",
         "platform": "aws",
-        "type": "",
+        "type": "CloudFront",
         "size": [
             "16px",
             "16px"
@@ -939,7 +939,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Storage/volume.png",
         "platform": "aws",
-        "type": "",
+        "type": "Volume",
         "size": [
             "16px",
             "16px"
@@ -952,7 +952,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Storage/volume.png",
         "platform": "aws",
-        "type": "",
+        "type": "EbsSnapshot",
         "size": [
             "16px",
             "16px"
@@ -965,7 +965,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Analytics/Kinesis.png",
         "platform": "aws",
-        "type": "",
+        "type": "Kinesis",
         "size": [
             "16px",
             "16px"
@@ -978,7 +978,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53Hostedzone.png",
         "platform": "aws",
-        "type": "",
+        "type": "Route53HostedZone",
         "size": [
             "16px",
             "16px"
@@ -1005,7 +1005,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AcmCertificateManager.svg",
         "platform": "aws",
-        "type": "",
+        "type": "AcmCertificate",
         "size": [
             "16px",
             "16px"
@@ -1018,7 +1018,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/IamSecurityCredential.png",
         "platform": "aws",
-        "type": "",
+        "type": "IamServerCertificate",
         "size": [
             "16px",
             "16px"
@@ -1031,7 +1031,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53Domain.svg",
         "platform": "aws",
-        "type": "",
+        "type": "Route53Domain",
         "size": [
             "16px",
             "16px"
@@ -1045,7 +1045,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Database/DynamoDB_table.png",
         "platform": "aws",
-        "type": "",
+        "type": "DynamoDbTable",
         "size": [
             "16px",
             "16px"
@@ -1071,7 +1071,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/VPNgateway.png",
         "platform": "aws",
-        "type": "",
+        "type": "VPNGateway",
         "size": [
             "16px",
             "16px"
@@ -1084,7 +1084,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
         "platform": "aws",
-        "type": "",
+        "type": "WAFRegional",
         "size": [
             "16px",
             "16px"
@@ -1097,7 +1097,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
         "platform": "aws",
-        "type": "",
+        "type": "WAFRegionalV2",
         "size": [
             "16px",
             "16px"
@@ -1110,7 +1110,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/VPNconnection.png",
         "platform": "aws",
-        "type": "",
+        "type": "VPNConnection",
         "size": [
             "16px",
             "16px"
@@ -1123,7 +1123,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
-        "type": "",
+        "type": "EcsTask",
         "size": [
             "16px",
             "16px"
@@ -1175,7 +1175,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
-        "type": "",
+        "type": "EcsService",
         "size": [
             "16px",
             "16px"
@@ -1201,7 +1201,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Compute/customergateway.png",
         "platform": "aws",
-        "type": "",
+        "type": "CustomerGateway",
         "size": [
             "16px",
             "16px"
@@ -1253,7 +1253,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/aws-sagemaker.png",
         "platform": "aws",
-        "type": "",
+        "type": "SageMakerNotebook",
         "size": [
             "16px",
             "16px"
@@ -1307,7 +1307,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_endpoints.png",
         "platform": "aws",
-        "type": "",
+        "type": "VpcEndpoint",
         "size": [
             "16px",
             "16px"
