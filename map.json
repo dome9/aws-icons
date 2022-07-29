@@ -1201,7 +1201,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
         "platform": "aws",
-        "type": "",
+        "type": "ApiGateway",
         "size": [
             "16px",
             "16px"
@@ -1214,7 +1214,7 @@
         ],
         "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
         "platform": "aws",
-        "type": "",
+        "type": "ApiGatewayV2",
         "size": [
             "16px",
             "16px"
