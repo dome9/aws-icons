@@ -576,7 +576,7 @@
         ],
         "path": "/assets/vendor-icons/Arch_Amazon-Simple-Storage-Service_16.svg",
         "platform": "aws",
-        "type": "",
+        "type": "S3Bucket",
         "size": [
             "16px",
             "16px"
