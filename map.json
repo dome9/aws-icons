@@ -1878,7 +1878,7 @@
         ],
         "path": "/assets/images/azure-icons/VM symbol only.png",
         "platform": "azure",
-        "type": "",
+        "type": "VirtualMachine",
         "size": [
             "16px",
             "16px"
