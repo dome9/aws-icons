@@ -1,31 +1,6 @@
 [
     {
         "classNames": [
-            "icon-aws-cloud"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/general/General_AWScloud.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "25px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-awsgov-cloud",
-            "icon-awsgov-account"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/general/aws-gov-cloud.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "25px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
             "icon-aws-account"
         ],
         "path": "/assets/images/icons/aws.svg",
@@ -34,31 +9,8 @@
         "size": [
             "20px",
             "14px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-shiftleft-account"
         ],
-        "path": "/assets/images/icons/shiftleft.svg",
-        "platform": "shiftleft",
-        "type": "",
-        "size": [
-            "20px",
-            "14px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-sourcecodeassurance-account"
-        ],
-        "path": "/assets/images/icons/shiftleft.svg",
-        "platform": "shiftleft",
-        "type": "",
-        "size": [
-            "23px",
-            "18px"
-        ]
+        "displayName": "Account"
     },
     {
         "classNames": [
@@ -70,31 +22,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-network"
         ],
-        "path": "/assets/images/icons/network.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-imageassurance-account"
-        ],
-        "path": "/assets/images/icons/imageassurance.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "22px",
-            "22px"
-        ]
+        "displayName": "ShiftLeft Image"
     },
     {
         "classNames": [
@@ -107,7 +36,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Region"
     },
     {
         "classNames": [
@@ -120,7 +50,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Elasticsearch Domain"
     },
     {
         "classNames": [
@@ -133,33 +64,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-iam",
-            "icon-aws-list-iam"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "27px",
-            "21px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-iam-policy",
-            "icon-aws-list-iam-policy"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/SecurityIdentityIamPermissions.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "27px",
-            "21px"
-        ]
+        "displayName": "AWS EMR Cluster"
     },
     {
         "classNames": [
@@ -172,20 +78,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-nacl",
-            "icon-aws-list-nacl"
         ],
-        "path": "/assets/vendor-icons/Res_Amazon-VPC_Router_48_Dark.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Route Table"
     },
     {
         "classNames": [
@@ -198,7 +92,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Redshift"
     },
     {
         "classNames": [
@@ -211,7 +106,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Network Interface"
     },
     {
         "classNames": [
@@ -224,20 +120,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-external",
-            "icon-aws-list-external"
         ],
-        "path": "/assets/images/clarity/External.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS EC2 Instance"
     },
     {
         "classNames": [
@@ -250,215 +134,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-aws-api-call",
-            "icon-aws-list-aws-api-call"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-natgw",
-            "icon-aws-list-natgw"
-        ],
-        "path": "/assets/images/clarity/NAT.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-elasticmapreduce",
-            "icon-aws-list-elasticmapreduce"
-        ],
-        "path": "/assets/images/clarity/elasticmapreduce.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-eks-nodegroup",
-            "icon-aws-list-eks-nodegroup"
-        ],
-        "path": "/assets/images/clarity/nodegroup.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-delivery",
-            "icon-aws-list-delivery"
-        ],
-        "path": "/assets/images/clarity/delivery.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-servicediscovery",
-            "icon-aws-list-servicediscovery"
-        ],
-        "path": "/assets/images/clarity/discovery.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-amazonmq",
-            "icon-aws-list-amazonmq"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/Amazon-MQ.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-guardduty",
-            "icon-aws-list-guardduty"
-        ],
-        "path": "/assets/images/clarity/guardduty.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-directconnect",
-            "icon-aws-list-directconnect"
-        ],
-        "path": "/assets/images/clarity/Direct-connect.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-config",
-            "icon-aws-list-config"
-        ],
-        "path": "/assets/images/clarity/config.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-cognito-idp",
-            "icon-aws-list-cognito-idp"
-        ],
-        "path": "/assets/images/serverless/aws/aws-cognito-idp.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-glue",
-            "icon-aws-list-glue"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-translate",
-            "icon-aws-list-translate"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-dms",
-            "icon-aws-list-dms"
-        ],
-        "path": "/assets/images/clarity/dms.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-states",
-            "icon-aws-list-states"
-        ],
-        "path": "/assets/images/serverless/aws/aws-states.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-vpc-flow-logs",
-            "icon-aws-list-vpc-flow-logs"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_flowlogs.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS ALB"
     },
     {
         "classNames": [
@@ -471,7 +148,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS CloudTrail"
     },
     {
         "classNames": [
@@ -485,7 +163,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS IAM Role"
     },
     {
         "classNames": [
@@ -499,7 +178,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Cloud Formation Stack"
     },
     {
         "classNames": [
@@ -512,7 +192,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Kinesis Firehose"
     },
     {
         "classNames": [
@@ -525,33 +206,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-iam-group",
-            "icon-aws-list-iam-group"
         ],
-        "path": "/assets/images/AWSSimpleIcons/General/General_users.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-events",
-            "icon-aws-logs"
-        ],
-        "path": "/assets/images/clarity/cloudwatch.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS MSK Cluster"
     },
     {
         "classNames": [
@@ -566,7 +222,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS IAM User"
     },
     {
         "classNames": [
@@ -580,7 +237,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS S3 Bucket"
     },
     {
         "classNames": [
@@ -593,7 +251,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba KMS"
     },
     {
         "classNames": [
@@ -606,7 +265,8 @@
         "size": [
             "20px",
             "13px"
-        ]
+        ],
+        "displayName": "Alibaba VPC"
     },
     {
         "classNames": [
@@ -620,7 +280,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Lambda"
     },
     {
         "classNames": [
@@ -633,7 +294,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ELB"
     },
     {
         "classNames": [
@@ -646,19 +308,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-application-auto-scaling-policy"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/Amazon-Application-Auto-Scaling.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Application Auto Scaling Policy"
     },
     {
         "classNames": [
@@ -671,7 +322,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS SQS"
     },
     {
         "classNames": [
@@ -684,20 +336,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-application-load-balancer",
-            "icon-aws-list-application-load-balancer"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS NAT Gateway"
     },
     {
         "classNames": [
@@ -710,7 +350,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS NLB"
     },
     {
         "classNames": [
@@ -723,7 +364,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS GLB"
     },
     {
         "classNames": [
@@ -736,7 +378,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS RDS"
     },
     {
         "classNames": [
@@ -749,7 +392,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "RDS DB Snapshot"
     },
     {
         "classNames": [
@@ -762,44 +406,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-internet-gateway",
-            "icon-aws-list-internet-gateway"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_internetgateway.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-vpcfl"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_flowlogs.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-cloudtrail"
-        ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/Management-Tools_AWSCloudTrail.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "RDS DB Cluster"
     },
     {
         "classNames": [
@@ -812,7 +420,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Log Group"
     },
     {
         "classNames": [
@@ -825,7 +434,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS EFS"
     },
     {
         "classNames": [
@@ -838,7 +448,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Storage Gateway"
     },
     {
         "classNames": [
@@ -851,7 +462,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ElastiCache"
     },
     {
         "classNames": [
@@ -865,7 +477,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ECS Cluster"
     },
     {
         "classNames": [
@@ -878,7 +491,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS EKS Cluster"
     },
     {
         "classNames": [
@@ -891,7 +505,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ECS Task Definition"
     },
     {
         "classNames": [
@@ -904,7 +519,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ECR Repository"
     },
     {
         "classNames": [
@@ -917,7 +533,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS CloudFront"
     },
     {
         "classNames": [
@@ -930,7 +547,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Volume"
     },
     {
         "classNames": [
@@ -943,7 +561,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS EBS Snapshot"
     },
     {
         "classNames": [
@@ -956,7 +575,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Kinesis"
     },
     {
         "classNames": [
@@ -969,21 +589,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-route-53-record-set-group",
-            "icon-aws-list-route-53-record-set-group",
-            "icon-aws-route-53"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS Route 53 Hosted Zone"
     },
     {
         "classNames": [
@@ -996,7 +603,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ACM Certificate"
     },
     {
         "classNames": [
@@ -1009,7 +617,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS IAM Server Certificate"
     },
     {
         "classNames": [
@@ -1022,7 +631,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Route 53 Domain"
     },
     {
         "classNames": [
@@ -1036,20 +646,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-ami",
-            "icon-aws-list-ami"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/EC2_AMI.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS DynamoDb Table"
     },
     {
         "classNames": [
@@ -1062,7 +660,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS VPN Gateway"
     },
     {
         "classNames": [
@@ -1075,7 +674,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS WAF Regional"
     },
     {
         "classNames": [
@@ -1088,7 +688,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS WAF Regional V2"
     },
     {
         "classNames": [
@@ -1101,7 +702,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS VPN Connection"
     },
     {
         "classNames": [
@@ -1114,7 +716,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ECS Task"
     },
     {
         "classNames": [
@@ -1127,7 +730,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS SNS"
     },
     {
         "classNames": [
@@ -1140,7 +744,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS SNS Platform Application"
     },
     {
         "classNames": [
@@ -1153,7 +758,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS SES"
     },
     {
         "classNames": [
@@ -1166,20 +772,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-elastic-ip",
-            "icon-aws-list-elastic-ip"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticIPaddress.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS ECS Service"
     },
     {
         "classNames": [
@@ -1192,7 +786,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Customer Gateway"
     },
     {
         "classNames": [
@@ -1205,7 +800,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS API Gateway"
     },
     {
         "classNames": [
@@ -1218,7 +814,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS API Gateway V2"
     },
     {
         "classNames": [
@@ -1231,7 +828,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Custom Domain Name"
     },
     {
         "classNames": [
@@ -1244,7 +842,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Sage Marker Notebook"
     },
     {
         "classNames": [
@@ -1259,7 +858,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Workspace"
     },
     {
         "classNames": [
@@ -1272,20 +872,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-cloud-watch-events-rule",
-            "icon-aws-list-cloud-watch-events-rule"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/CloudWatchEventBased.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS Sage Maker Training job"
     },
     {
         "classNames": [
@@ -1298,43 +886,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-sts"
         ],
-        "path": "/assets/images/clarity/sts.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-ssm"
-        ],
-        "path": "/assets/images/clarity/ssm.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-ecs-tasks"
-        ],
-        "path": "/assets/images/clarity/docker.png",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS VPC Endpoint"
     },
     {
         "classNames": [
@@ -1346,68 +899,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-aws-autoscaling",
-            "icon-aws-autoscaling"
         ],
-        "path": "/assets/images/clarity/autoscaling.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-sns"
-        ],
-        "path": "/assets/images/clarity/sns.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-ecr"
-        ],
-        "path": "/assets/images/clarity/ecr.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-ec-2"
-        ],
-        "path": "/assets/images/clarity/ec2.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-eks"
-        ],
-        "path": "/assets/images/clarity/eks.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Account"
     },
     {
         "classNames": [
@@ -1419,43 +912,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-monitoring"
         ],
-        "path": "/assets/images/clarity/monitoring.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-sqs"
-        ],
-        "path": "/assets/images/clarity/sqs.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-aws-console-sign-in"
-        ],
-        "path": "/assets/images/clarity/AwsConsoleSignIn.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS Elastic Beanstalk"
     },
     {
         "classNames": [
@@ -1467,7 +925,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Config Setting"
     },
     {
         "classNames": [
@@ -1480,7 +939,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Organization"
     },
     {
         "classNames": [
@@ -1493,7 +953,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Transit Gateway"
     },
     {
         "classNames": [
@@ -1506,7 +967,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Step Function State Machine"
     },
     {
         "classNames": [
@@ -1519,7 +981,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Secret Manager"
     },
     {
         "classNames": [
@@ -1533,7 +996,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Transcribe Job"
     },
     {
         "classNames": [
@@ -1546,7 +1010,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Transcribe Medical Job"
     },
     {
         "classNames": [
@@ -1559,7 +1024,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Cognito User Pool"
     },
     {
         "classNames": [
@@ -1572,7 +1038,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Cognito Identity Pool"
     },
     {
         "classNames": [
@@ -1585,7 +1052,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Transfer"
     },
     {
         "classNames": [
@@ -1598,7 +1066,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Personalize"
     },
     {
         "classNames": [
@@ -1611,7 +1080,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS System Manager Parameter"
     },
     {
         "classNames": [
@@ -1624,7 +1094,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Glue Security Configuration"
     },
     {
         "classNames": [
@@ -1637,7 +1108,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Glue Connection"
     },
     {
         "classNames": [
@@ -1650,7 +1122,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "MQ Broker"
     },
     {
         "classNames": [
@@ -1664,7 +1137,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Network Firewall"
     },
     {
         "classNames": [
@@ -1677,7 +1151,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Translation Job"
     },
     {
         "classNames": [
@@ -1690,7 +1165,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Athena Work Group"
     },
     {
         "classNames": [
@@ -1703,7 +1179,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Translation Terminology"
     },
     {
         "classNames": [
@@ -1716,7 +1193,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS System Manager Document"
     },
     {
         "classNames": [
@@ -1729,20 +1207,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-aws-elastic-beanstalk",
-            "icon-aws-list-elastic-beanstalk"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/Elastic-Beanstalk.svg",
-        "platform": "aws",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "AWS DMS Endpoint"
     },
     {
         "classNames": [
@@ -1755,7 +1221,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Shield"
     },
     {
         "classNames": [
@@ -1768,7 +1235,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS Backup Vault"
     },
     {
         "classNames": [
@@ -1781,7 +1249,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS IAM SAML Provider"
     },
     {
         "classNames": [
@@ -1794,7 +1263,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS IAM OpenId Connect Provider"
     },
     {
         "classNames": [
@@ -1807,7 +1277,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS FSx"
     },
     {
         "classNames": [
@@ -1820,19 +1291,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-cloud"
         ],
-        "path": "/assets/images/azure-icons/azure.png",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "25px",
-            "16px"
-        ]
+        "displayName": "AWS FSx Backup"
     },
     {
         "classNames": [
@@ -1844,19 +1304,8 @@
         "size": [
             "25px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-account"
         ],
-        "path": "/assets/images/icons/azure.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "20px",
-            "14px"
-        ]
+        "displayName": "Azure Load Balancer"
     },
     {
         "classNames": [
@@ -1869,7 +1318,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Virtual Network Gateway"
     },
     {
         "classNames": [
@@ -1882,7 +1332,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Virtual Machine"
     },
     {
         "classNames": [
@@ -1895,33 +1346,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-network-security-group",
-            "icon-azure-list-network-security-group"
         ],
-        "path": "/assets/images/azure-icons/NSG.png",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-load-balancer",
-            "icon-azure-list-load-balancer"
-        ],
-        "path": "/assets/images/azure-icons/Azure load balancer.png",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Service Fabric Cluster"
     },
     {
         "classNames": [
@@ -1935,20 +1361,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-virtual-network-gateway",
-            "icon-azure-list-virtual-network-gateway"
         ],
-        "path": "/assets/images/azure-icons/Virtual-Network-Gateways.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Virtual Network"
     },
     {
         "classNames": [
@@ -1961,33 +1375,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-subnet",
-            "icon-azure-list-subnet"
         ],
-        "path": "/assets/images/azure-icons/Subnet.png",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-resource-group",
-            "icon-azure-list-resource-group"
-        ],
-        "path": "/assets/images/azure-icons/ResourceGroup.png",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Firewall"
     },
     {
         "classNames": [
@@ -2000,7 +1389,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Application Gateway"
     },
     {
         "classNames": [
@@ -2013,7 +1403,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure SQL Server"
     },
     {
         "classNames": [
@@ -2026,22 +1417,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-sqldb",
-            "icon-azure-list-sqldb",
-            "icon-azure-sql-database",
-            "icon-azure-list-sql-database"
         ],
-        "path": "/assets/images/azure-icons/AzureSQLDatabase.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Route Table"
     },
     {
         "classNames": [
@@ -2054,7 +1431,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Key Vault"
     },
     {
         "classNames": [
@@ -2067,7 +1445,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Redis Cache"
     },
     {
         "classNames": [
@@ -2080,33 +1459,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-data-warehouse",
-            "icon-azure-list-data-warehouse"
         ],
-        "path": "/assets/images/azure-icons/azure-data-warehouse.png",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-vnet-peering",
-            "icon-azure-list-vnet-peering"
-        ],
-        "path": "/assets/images/azure-icons/VNetPeering.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Storage Account"
     },
     {
         "classNames": [
@@ -2119,7 +1473,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Postgre SQL"
     },
     {
         "classNames": [
@@ -2132,7 +1487,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Container Registry"
     },
     {
         "classNames": [
@@ -2145,7 +1501,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Cosmos DB Account"
     },
     {
         "classNames": [
@@ -2158,7 +1515,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Network Watcher"
     },
     {
         "classNames": [
@@ -2171,7 +1529,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Log Profile"
     },
     {
         "classNames": [
@@ -2184,7 +1543,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure NSG Flow Log"
     },
     {
         "classNames": [
@@ -2197,7 +1557,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Logic App"
     },
     {
         "classNames": [
@@ -2210,7 +1571,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Analysis Service Server"
     },
     {
         "classNames": [
@@ -2223,7 +1585,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Virtual Machine Scale Set"
     },
     {
         "classNames": [
@@ -2236,7 +1599,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Policy Assignment"
     },
     {
         "classNames": [
@@ -2249,7 +1613,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Application Security Group"
     },
     {
         "classNames": [
@@ -2262,7 +1627,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Service Bus"
     },
     {
         "classNames": [
@@ -2275,7 +1641,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Kubernetes Service Cluster"
     },
     {
         "classNames": [
@@ -2288,7 +1655,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Function App"
     },
     {
         "classNames": [
@@ -2301,7 +1669,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Web App"
     },
     {
         "classNames": [
@@ -2314,7 +1683,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure App Service Environment"
     },
     {
         "classNames": [
@@ -2327,7 +1697,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure User"
     },
     {
         "classNames": [
@@ -2340,7 +1711,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure SQL Managed Instance"
     },
     {
         "classNames": [
@@ -2353,7 +1725,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure HD Insight"
     },
     {
         "classNames": [
@@ -2366,20 +1739,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-activity-log-monitor",
-            "icon-azure-list-activity-log-monitor"
         ],
-        "path": "/assets/images/azure-icons/ActivityLogMonitor.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Data Explorer Cluster"
     },
     {
         "classNames": [
@@ -2392,7 +1753,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Activity Log Alert Rule"
     },
     {
         "classNames": [
@@ -2405,20 +1767,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-azure-insights",
-            "icon-azure-list-insights"
         ],
-        "path": "/assets/images/azure-icons/00008-icon-service-Diagnostics-Settings.svg",
-        "platform": "azure",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure API Management Service"
     },
     {
         "classNames": [
@@ -2431,7 +1781,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Compute Disk"
     },
     {
         "classNames": [
@@ -2444,7 +1795,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Regional WAF"
     },
     {
         "classNames": [
@@ -2457,7 +1809,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Role Assignment"
     },
     {
         "classNames": [
@@ -2470,7 +1823,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Role Definition"
     },
     {
         "classNames": [
@@ -2483,7 +1837,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Event Hub Namespace"
     },
     {
         "classNames": [
@@ -2496,7 +1851,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Bastion"
     },
     {
         "classNames": [
@@ -2509,7 +1865,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Maria DB"
     },
     {
         "classNames": [
@@ -2522,7 +1879,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Security Contact"
     },
     {
         "classNames": [
@@ -2535,7 +1893,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Auto Provisioning Settings"
     },
     {
         "classNames": [
@@ -2548,7 +1907,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Container Instance"
     },
     {
         "classNames": [
@@ -2561,7 +1921,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Databricks Workspace"
     },
     {
         "classNames": [
@@ -2574,7 +1935,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure MySQL DB Flexible Server"
     },
     {
         "classNames": [
@@ -2587,7 +1949,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure MySQL DB Single Server"
     },
     {
         "classNames": [
@@ -2600,7 +1963,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Azure Spring Cloud"
     },
     {
         "classNames": [
@@ -2613,45 +1977,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-gcp-cloud"
         ],
-        "path": "/assets/images/gcp/cloud-gcp.png",
-        "platform": "gcp",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-gcp-account",
-            "icon-google-account"
-        ],
-        "path": "/assets/images/icons/gcp.svg",
-        "platform": "gcp",
-        "type": "",
-        "size": [
-            "20px",
-            "14px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-gcp-security-group",
-            "icon-google-icon-gcp-security-group"
-        ],
-        "path": "/assets/images/gcp/Networking/Cloud-Virtual-Network.png",
-        "platform": "gcp",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Cognitive Service"
     },
     {
         "classNames": [
@@ -2668,7 +1995,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Virtual Machine Instance"
     },
     {
         "classNames": [
@@ -2680,22 +2008,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-gcp-firewall-rule",
-            "icon-gcp-list-firewall-rule",
-            "icon-google-firewall-rule",
-            "icon-google-list-firewall-rule"
         ],
-        "path": "/assets/images/gcp/Networking/Cloud-Virtual-Network.svg",
-        "platform": "gcp",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Azure Virtual Machine Scale Set Instance"
     },
     {
         "classNames": [
@@ -2710,7 +2024,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Network"
     },
     {
         "classNames": [
@@ -2725,37 +2040,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-gcp-gcp-security-group",
-            "icon-google-gcp-security-group",
-            "icon-gcp-list-security-group",
-            "icon-google-list-security-group"
         ],
-        "path": "/assets/images/gcp/Networking/cloud-firewall-rules.svg",
-        "platform": "gcp",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-gcp-subnet",
-            "icon-google-subnet",
-            "icon-gcp-list-subnet",
-            "icon-google-list-subnet"
-        ],
-        "path": "/assets/images/gcp/logo-icon.png",
-        "platform": "gcp",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "GCP Cloud SQL"
     },
     {
         "classNames": [
@@ -2770,7 +2056,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Compute Image"
     },
     {
         "classNames": [
@@ -2785,7 +2072,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Compute Disk"
     },
     {
         "classNames": [
@@ -2800,7 +2088,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Compute Router"
     },
     {
         "classNames": [
@@ -2815,7 +2104,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Instance Template"
     },
     {
         "classNames": [
@@ -2830,7 +2120,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Storage Bucket"
     },
     {
         "classNames": [
@@ -2845,22 +2136,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-gcp-project",
-            "icon-google-project",
-            "icon-gcp-list-project",
-            "icon-google-list-project"
         ],
-        "path": "/assets/images/gcp/generic-gcp.png",
-        "platform": "gcp",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "GCP Memorystore Redis"
     },
     {
         "classNames": [
@@ -2875,7 +2152,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Service Account"
     },
     {
         "classNames": [
@@ -2890,7 +2168,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP API Key"
     },
     {
         "classNames": [
@@ -2905,7 +2184,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP KMS Key Ring"
     },
     {
         "classNames": [
@@ -2920,7 +2200,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP IAM Policy"
     },
     {
         "classNames": [
@@ -2935,7 +2216,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP IAM User"
     },
     {
         "classNames": [
@@ -2950,7 +2232,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP IAM Role"
     },
     {
         "classNames": [
@@ -2965,7 +2248,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP IAM Group"
     },
     {
         "classNames": [
@@ -2980,7 +2264,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP BigQuery"
     },
     {
         "classNames": [
@@ -2995,7 +2280,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Big Query Table"
     },
     {
         "classNames": [
@@ -3010,7 +2296,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP GKE Cluster"
     },
     {
         "classNames": [
@@ -3025,7 +2312,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Cloud Function"
     },
     {
         "classNames": [
@@ -3040,7 +2328,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP BigTable"
     },
     {
         "classNames": [
@@ -3055,7 +2344,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP PubSub Topic"
     },
     {
         "classNames": [
@@ -3070,7 +2360,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP App Engine"
     },
     {
         "classNames": [
@@ -3085,7 +2376,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Filestore Instance"
     },
     {
         "classNames": [
@@ -3100,7 +2392,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Url Map"
     },
     {
         "classNames": [
@@ -3115,7 +2408,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP TCP UDP Load Balancer Target Pool"
     },
     {
         "classNames": [
@@ -3130,7 +2424,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Route"
     },
     {
         "classNames": [
@@ -3145,7 +2440,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Alert Policy"
     },
     {
         "classNames": [
@@ -3160,7 +2456,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Log Based Metric"
     },
     {
         "classNames": [
@@ -3175,7 +2472,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Log Sink"
     },
     {
         "classNames": [
@@ -3190,7 +2488,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Load Balancer SSL Policy"
     },
     {
         "classNames": [
@@ -3205,7 +2504,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Backend Service"
     },
     {
         "classNames": [
@@ -3220,7 +2520,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Log Bucket"
     },
     {
         "classNames": [
@@ -3235,7 +2536,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Forwarding Rule"
     },
     {
         "classNames": [
@@ -3250,7 +2552,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP DNS Managed Zone"
     },
     {
         "classNames": [
@@ -3265,7 +2568,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Tcp Load Balancer Target Proxy"
     },
     {
         "classNames": [
@@ -3280,7 +2584,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Https Load Balancer Target Proxy"
     },
     {
         "classNames": [
@@ -3295,7 +2600,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP SSL Load Balancer Target Proxy"
     },
     {
         "classNames": [
@@ -3310,7 +2616,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "GCP Dataproc Cluster"
     },
     {
         "classNames": [
@@ -3325,19 +2632,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-alibaba-account"
         ],
-        "path": "/assets/images/alibaba/alibaba.svg",
-        "platform": "alibaba",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "GCP Essential Contact"
     },
     {
         "classNames": [
@@ -3350,7 +2646,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba Security Group"
     },
     {
         "classNames": [
@@ -3362,7 +2659,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba RAM User"
     },
     {
         "classNames": [
@@ -3374,7 +2672,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba RAM Group"
     },
     {
         "classNames": [
@@ -3386,7 +2685,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba RAM Password Policy"
     },
     {
         "classNames": [
@@ -3398,7 +2698,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba RAM Role"
     },
     {
         "classNames": [
@@ -3410,7 +2711,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba RAM Policy"
     },
     {
         "classNames": [
@@ -3422,7 +2724,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba VPC"
     },
     {
         "classNames": [
@@ -3434,7 +2737,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba VSwitch"
     },
     {
         "classNames": [
@@ -3446,7 +2750,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba OSS Bucket"
     },
     {
         "classNames": [
@@ -3458,7 +2763,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba ECS Instance"
     },
     {
         "classNames": [
@@ -3470,7 +2776,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba ECS Disk"
     },
     {
         "classNames": [
@@ -3482,7 +2789,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba NAS"
     },
     {
         "classNames": [
@@ -3494,7 +2802,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba KMS"
     },
     {
         "classNames": [
@@ -3506,7 +2815,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba Action Trail"
     },
     {
         "classNames": [
@@ -3518,7 +2828,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba SLB"
     },
     {
         "classNames": [
@@ -3530,7 +2841,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Alibaba Auto Scaling Group"
     },
     {
         "classNames": [
@@ -3542,32 +2854,8 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-kubernetes-account",
-            "icon-kubernetesruntimeassurance-account"
         ],
-        "path": "/assets/images/kubernetes/icons/kubernetes.svg",
-        "platform": "kubernetes",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-containerregistry-account"
-        ],
-        "path": "/assets/images/kubernetes/icons/docker.svg",
-        "platform": "kubernetes",
-        "type": "",
-        "size": [
-            "16px",
-            "16px"
-        ]
+        "displayName": "Alibaba RDS DB Instance"
     },
     {
         "classNames": [
@@ -3579,7 +2867,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Pod"
     },
     {
         "classNames": [
@@ -3591,7 +2880,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Node"
     },
     {
         "classNames": [
@@ -3603,7 +2893,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Service"
     },
     {
         "classNames": [
@@ -3615,7 +2906,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Ingress"
     },
     {
         "classNames": [
@@ -3627,7 +2919,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Image"
     },
     {
         "classNames": [
@@ -3639,7 +2932,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Container Registry Image"
     },
     {
         "classNames": [
@@ -3651,7 +2945,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "AWS ECS Image"
     },
     {
         "classNames": [
@@ -3663,7 +2958,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Network Policy"
     },
     {
         "classNames": [
@@ -3675,7 +2971,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Role"
     },
     {
         "classNames": [
@@ -3687,7 +2984,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Role Binding"
     },
     {
         "classNames": [
@@ -3699,7 +2997,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Service Account"
     },
     {
         "classNames": [
@@ -3711,7 +3010,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Namespace"
     },
     {
         "classNames": [
@@ -3723,7 +3023,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Cluster"
     },
     {
         "classNames": [
@@ -3735,7 +3036,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Pod Security Policy"
     },
     {
         "classNames": [
@@ -3747,7 +3049,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes DaemonSet"
     },
     {
         "classNames": [
@@ -3759,7 +3062,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Deployment"
     },
     {
         "classNames": [
@@ -3771,7 +3075,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes ReplicaSet"
     },
     {
         "classNames": [
@@ -3783,7 +3088,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes StatefulSet"
     },
     {
         "classNames": [
@@ -3795,7 +3101,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes Job"
     },
     {
         "classNames": [
@@ -3807,7 +3114,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Kubernetes CronJob"
     },
     {
         "classNames": [
@@ -3819,7 +3127,8 @@
         "size": [
             "16px",
             "16px"
-        ]
+        ],
+        "displayName": "Openshift Security Context Constraint"
     },
     {
         "classNames": [
@@ -3831,334 +3140,7 @@
         "size": [
             "16px",
             "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-terraform",
-            "icon-terraform-account"
         ],
-        "path": "/assets/images/icons/terraform.png",
-        "size": [
-            "20px",
-            "20px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-cft",
-            "icon-cft-account"
-        ],
-        "path": "/assets/images/icons/cft.png",
-        "size": [
-            "20px",
-            "20px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-terraform-asset"
-        ],
-        "path": "/assets/images/icons/terraform.png",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-cft-asset"
-        ],
-        "path": "/assets/images/icons/cft.png",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "checkpoint-infinity-portal"
-        ],
-        "path": "/assets/images/checkpoint/infinity_portal.svg"
-    },
-    {
-        "classNames": [
-            "topic-asset-management"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_asset_management_asset_management.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-shiftleft"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_shiftleft.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-logs"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_logs.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-posture-management"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_posture_management_posture_namagement.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-workload-protection"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_workload_protection.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-serverless"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_serverless.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-overview"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_overview.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-events"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_events.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-iam-protection"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_iam_protection_iam_protection.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-investigate"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_investigate.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-manage-and-settings"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_manage_and_settings.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-iam-protection"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_iam_protection_iam_protection.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-settings"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_settings.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-tree-help"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_tree_help.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "topic-network"
-        ],
-        "path": "/assets/icons/checkpoint/topic/topic_network.svg",
-        "size": [
-            "26px",
-            "26px"
-        ]
-    },
-    {
-        "classNames": [
-            "add"
-        ],
-        "path": "/assets/icons/checkpoint/actions/add.svg",
-        "size": [
-            "13px",
-            "13px"
-        ]
-    },
-    {
-        "classNames": [
-            "control-search-arrow-down"
-        ],
-        "path": "/assets/icons/checkpoint/control_search_arrow_down.svg",
-        "size": [
-            "8px",
-            "8px"
-        ]
-    },
-    {
-        "classNames": [
-            "search-magnifiy"
-        ],
-        "path": "/assets/icons/checkpoint/search_magnifiy.svg",
-        "size": [
-            "13px",
-            "13px"
-        ]
-    },
-    {
-        "classNames": [
-            "favorite"
-        ],
-        "path": "/assets/icons/checkpoint/favorite.svg",
-        "size": [
-            "12px",
-            "12px"
-        ]
-    },
-    {
-        "classNames": [
-            "cancel-on-button"
-        ],
-        "path": "/assets/icons/checkpoint/cancel_on_button.svg",
-        "size": [
-            "13px",
-            "13px"
-        ]
-    },
-    {
-        "classNames": [
-            "export-to-excel"
-        ],
-        "path": "/assets/icons/checkpoint/export_to_excel.svg",
-        "size": [
-            "29px",
-            "29px"
-        ]
-    },
-    {
-        "classNames": [
-            "spinner-small-animation"
-        ],
-        "path": "/assets/icons/checkpoint/spinner_small_animation.svg",
-        "size": [
-            "13px",
-            "13px"
-        ]
-    },
-    {
-        "classNames": [
-            "spinner-animation"
-        ],
-        "path": "/assets/icons/checkpoint/spinner_animation.svg",
-        "size": [
-            "29px",
-            "29px"
-        ]
-    },
-    {
-        "classNames": [
-            "pinned"
-        ],
-        "path": "/assets/icons/checkpoint/unpin.svg",
-        "size": [
-            "12px",
-            "12px"
-        ]
-    },
-    {
-        "classNames": [
-            "info"
-        ],
-        "path": "/assets/icons/checkpoint/info.svg",
-        "size": [
-            "13px",
-            "13px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-placeholder"
-        ],
-        "path": "/assets/images/icons/cloud.svg",
-        "size": [
-            "16px",
-            "16px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-serverless-runtime-protection"
-        ],
-        "path": "/assets/images/serverless/runtime_protection.svg",
-        "size": [
-            "18px",
-            "18px"
-        ]
-    },
-    {
-        "classNames": [
-            "icon-serverless-runtime-protection-in-progress"
-        ],
-        "path": "/assets/images/serverless/runtime_protection_in_progress.svg",
-        "size": [
-            "18px",
-            "18px"
-        ]
+        "displayName": "Dome9 Agent"
     }
 ]
