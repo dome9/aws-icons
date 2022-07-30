@@ -1,0 +1,19 @@
+# Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
+.sass-cache/**
+*.db
+
+.npmrc
+/mocks
+/.jsbeautifyrc
+.sass-lint.yml
+.htmlhintrc
+
+# Runtime data
+/.tmp
+
+# Dependency directory
+/node_modules
+
+
+/build
+/dist

@@ -3,7 +3,7 @@
         "classNames": [
             "icon-aws-account"
         ],
-        "path": "/assets/images/icons/aws.svg",
+        "path": "assets/images/icons/aws.svg",
         "platform": "aws",
         "type": "Account",
         "size": [
@@ -16,7 +16,7 @@
         "classNames": [
             "icon-shiftleft-shift-left-image"
         ],
-        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "path": "assets/images/kubernetes/icons/docker.svg",
         "platform": "kubernetes",
         "type": "ShiftLeftImage",
         "size": [
@@ -30,7 +30,7 @@
             "icon-aws-region",
             "icon-aws-list-region"
         ],
-        "path": "/assets/images/AWSSimpleIcons/AWS_Region.png",
+        "path": "assets/images/AWSSimpleIcons/AWS_Region.png",
         "platform": "aws",
         "type": "Region",
         "size": [
@@ -44,7 +44,7 @@
             "icon-aws-elastic-search-domain",
             "icon-aws-list-elastic-search-domain"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Analytics/aws-elastic-search.svg",
+        "path": "assets/images/AWSSimpleIcons/Analytics/aws-elastic-search.svg",
         "platform": "aws",
         "type": "ElasticSearchDomain",
         "size": [
@@ -58,7 +58,7 @@
             "icon-aws-emr-cluster",
             "icon-aws-list-emr-cluster"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Analytics/Analytics_AmazonEMR_cluster.png",
+        "path": "assets/images/AWSSimpleIcons/Analytics/Analytics_AmazonEMR_cluster.png",
         "platform": "aws",
         "type": "EmrCluster",
         "size": [
@@ -72,7 +72,7 @@
             "icon-aws-route-table",
             "icon-aws-list-route-table"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonRoute53_routetable.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/Networking_AmazonRoute53_routetable.png",
         "platform": "aws",
         "type": "RouteTable",
         "size": [
@@ -86,7 +86,7 @@
             "icon-aws-redshift",
             "icon-aws-list-redshift"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Database/Redshift.png",
+        "path": "assets/images/AWSSimpleIcons/Database/Redshift.png",
         "platform": "aws",
         "type": "Redshift",
         "size": [
@@ -100,7 +100,7 @@
             "icon-aws-network-interface",
             "icon-aws-list-network-interface"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_ElasticNetworkInterface.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/Networking_ElasticNetworkInterface.png",
         "platform": "aws",
         "type": "NetworkInterface",
         "size": [
@@ -114,7 +114,7 @@
             "icon-aws-instance",
             "icon-aws-list-instance"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/EC2_instance.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/EC2_instance.png",
         "platform": "aws",
         "type": "Instance",
         "size": [
@@ -128,7 +128,7 @@
             "icon-aws-alb",
             "icon-aws-list-alb"
         ],
-        "path": "/assets/images/clarity/ALB.png",
+        "path": "assets/images/clarity/ALB.png",
         "platform": "aws",
         "type": "ApplicationLoadBalancer",
         "size": [
@@ -142,7 +142,7 @@
             "icon-aws-cloud-trail",
             "icon-aws-list-cloud-trail"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/Management-Tools_AWSCloudTrail.png",
+        "path": "assets/images/AWSSimpleIcons/ManagementTools/Management-Tools_AWSCloudTrail.png",
         "platform": "aws",
         "type": "CloudTrail",
         "size": [
@@ -157,7 +157,7 @@
             "icon-aws-list-iam-role",
             "icon-aws-assumed-role"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM_role.png",
+        "path": "assets/images/aws/Resource-Icons/Res_Security-Identity-and-Compliance/Res_48_Dark/Res_AWS-Identity-Access-Management_Role_48_Dark.svg",
         "platform": "aws",
         "type": "IamRole",
         "size": [
@@ -172,7 +172,7 @@
             "icon-aws-list-cloud-formation-stack",
             "icon-aws-cloudformation"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-CloudFormation_Stack.svg",
+        "path": "assets/images/AWSSimpleIcons/ManagementTools/AWS-CloudFormation_Stack.svg",
         "platform": "aws",
         "type": "CloudFormationStack",
         "size": [
@@ -186,7 +186,7 @@
             "icon-aws-kinesis-firehose",
             "icon-aws-list-kinesis-firehose"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Analytics/Amazon-Kinesis-Firehose.svg",
+        "path": "assets/images/AWSSimpleIcons/Analytics/Amazon-Kinesis-Firehose.svg",
         "platform": "aws",
         "type": "KinesisFirehose",
         "size": [
@@ -200,7 +200,7 @@
             "icon-aws-msk-cluster",
             "icon-aws-list-msk-cluster"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Analytics/AWS_Msk_Cluster.png",
+        "path": "assets/images/AWSSimpleIcons/Analytics/AWS_Msk_Cluster.png",
         "platform": "aws",
         "type": "MskCluster",
         "size": [
@@ -216,7 +216,7 @@
             "icon-aws-iam",
             "icon-aws-saml-user"
         ],
-        "path": "/assets/images/AWSSimpleIcons/General/General_user.png",
+        "path": "assets/images/AWSSimpleIcons/General/General_user.png",
         "platform": "aws",
         "type": "IamUser",
         "size": [
@@ -231,7 +231,7 @@
             "icon-aws-list-s-3-bucket",
             "icon-aws-s-3"
         ],
-        "path": "/assets/vendor-icons/Arch_Amazon-Simple-Storage-Service_16.svg",
+        "path": "aws/Architecture-Service-Icons/Arch_Storage/16/Arch_Amazon-Simple-Storage-Service-Glacier_16.svg",
         "platform": "aws",
         "type": "S3Bucket",
         "size": [
@@ -245,7 +245,7 @@
             "icon-aws-kms",
             "icon-aws-list-kms"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSKMS.png",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSKMS.png",
         "platform": "aws",
         "type": "KMS",
         "size": [
@@ -259,7 +259,7 @@
             "icon-aws-vpc",
             "icon-aws-list-vpc"
         ],
-        "path": "/assets/images/AWSSimpleIcons/General/General_virtualprivatecloud.png",
+        "path": "assets/images/AWSSimpleIcons/General/General_virtualprivatecloud.png",
         "platform": "aws",
         "type": "VPC",
         "size": [
@@ -274,7 +274,7 @@
             "icon-aws-lambda",
             "icon-aws-list-lambda"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/Lambda.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/Lambda.png",
         "platform": "aws",
         "type": "Lambda",
         "size": [
@@ -288,7 +288,7 @@
             "icon-aws-elb",
             "icon-aws-list-elb"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
         "platform": "aws",
         "type": "ELB",
         "size": [
@@ -302,7 +302,7 @@
             "icon-aws-auto-scaling-group",
             "icon-aws-list-auto-scaling-group"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/EC2_AutoScaling.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/EC2_AutoScaling.png",
         "platform": "aws",
         "type": "ApplicationAutoScalingPolicy",
         "size": [
@@ -316,7 +316,7 @@
             "icon-aws-sqs",
             "icon-aws-list-sqs"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SQS.png",
+        "path": "assets/images/AWSSimpleIcons/ApplicationIntegration/SQS.png",
         "platform": "aws",
         "type": "Sqs",
         "size": [
@@ -330,7 +330,7 @@
             "icon-aws-nat-gateway",
             "icon-aws-list-nat-gateway"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_VPCNATgateway.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_VPCNATgateway.png",
         "platform": "aws",
         "type": "NatGateway",
         "size": [
@@ -344,7 +344,7 @@
             "icon-aws-network-load-balancer",
             "icon-aws-list-network-load-balancer"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
         "platform": "aws",
         "type": "NetworkLoadBalancer",
         "size": [
@@ -358,7 +358,7 @@
             "icon-aws-gateway-load-balancer",
             "icon-aws-list-gateway-load-balancer"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/ElasticLoadBalancing.png",
         "platform": "aws",
         "type": "GatewayLoadBalancer",
         "size": [
@@ -372,7 +372,7 @@
             "icon-aws-rds",
             "icon-aws-list-rds"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Database/RDS.png",
+        "path": "assets/images/AWSSimpleIcons/Database/RDS.png",
         "platform": "aws",
         "type": "RDS",
         "size": [
@@ -386,7 +386,7 @@
             "icon-aws-rdsdb-snapshot",
             "icon-aws-list-rdsd-bsnapshot"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Database/RDSDBSnapshot.png",
+        "path": "assets/images/AWSSimpleIcons/Database/RDSDBSnapshot.png",
         "platform": "aws",
         "type": "RDSDBSnapshot",
         "size": [
@@ -400,7 +400,7 @@
             "icon-aws-rdsdb-cluster",
             "icon-aws-list-rds"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Database/RDS_Cluster.png",
+        "path": "assets/images/AWSSimpleIcons/Database/RDS_Cluster.png",
         "platform": "aws",
         "type": "RDSDBCluster",
         "size": [
@@ -414,7 +414,7 @@
             "icon-aws-log-group",
             "icon-aws-list-log-group"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/Aws-CloudWatch.svg",
+        "path": "assets/images/AWSSimpleIcons/ManagementTools/Aws-CloudWatch.svg",
         "platform": "aws",
         "type": "LogGroup",
         "size": [
@@ -428,7 +428,7 @@
             "icon-aws-efs",
             "icon-aws-list-efs"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Storage/AmazonEFS.png",
+        "path": "assets/images/AWSSimpleIcons/Storage/AmazonEFS.png",
         "platform": "aws",
         "type": "EFS",
         "size": [
@@ -442,7 +442,7 @@
             "icon-aws-storage-gateway",
             "icon-aws-list-storage-gateway"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Storage/Storage-Gateway.png",
+        "path": "assets/images/AWSSimpleIcons/Storage/Storage-Gateway.png",
         "platform": "aws",
         "type": "StorageGateway",
         "size": [
@@ -456,7 +456,7 @@
             "icon-aws-elasti-cache",
             "icon-aws-list-elasti-cache"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Database/ElasticCache.png",
+        "path": "assets/images/AWSSimpleIcons/Database/ElasticCache.png",
         "platform": "aws",
         "type": "ElastiCache",
         "size": [
@@ -471,7 +471,7 @@
             "icon-aws-list-ecs-cluster",
             "icon-aws-ecs"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
         "type": "EcsCluster",
         "size": [
@@ -485,7 +485,7 @@
             "icon-aws-eks-cluster",
             "icon-aws-list-eks-cluster"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/EKS.svg",
+        "path": "assets/images/AWSSimpleIcons/Compute/EKS.svg",
         "platform": "aws",
         "type": "EksCluster",
         "size": [
@@ -499,7 +499,7 @@
             "icon-aws-ecs-task-definition",
             "icon-aws-list-ecs-task-definition"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
         "type": "EcsTaskDefinition",
         "size": [
@@ -513,7 +513,7 @@
             "icon-aws-ecr-repository",
             "icon-aws-list-ecr-repository"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ECR.svg",
+        "path": "assets/images/AWSSimpleIcons/Compute/ECR.svg",
         "platform": "aws",
         "type": "EcrRepository",
         "size": [
@@ -527,7 +527,7 @@
             "icon-aws-cloud-front",
             "icon-aws-list-cloud-front"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonCloudFront.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/Networking_AmazonCloudFront.png",
         "platform": "aws",
         "type": "CloudFront",
         "size": [
@@ -541,7 +541,7 @@
             "icon-aws-volume",
             "icon-aws-list-volume"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Storage/volume.png",
+        "path": "assets/images/AWSSimpleIcons/Storage/volume.png",
         "platform": "aws",
         "type": "Volume",
         "size": [
@@ -555,7 +555,7 @@
             "icon-aws-ebs-snapshot",
             "icon-aws-list-ebs-snapshot"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Storage/volume.png",
+        "path": "assets/images/AWSSimpleIcons/Storage/volume.png",
         "platform": "aws",
         "type": "EbsSnapshot",
         "size": [
@@ -569,7 +569,7 @@
             "icon-aws-kinesis",
             "icon-aws-list-kinesis"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Analytics/Kinesis.png",
+        "path": "assets/images/AWSSimpleIcons/Analytics/Kinesis.png",
         "platform": "aws",
         "type": "Kinesis",
         "size": [
@@ -583,7 +583,7 @@
             "icon-aws-route-53-hosted-zone",
             "icon-aws-list-route-53-hosted-zone"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53Hostedzone.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/AmazonRoute53Hostedzone.png",
         "platform": "aws",
         "type": "Route53HostedZone",
         "size": [
@@ -597,7 +597,7 @@
             "icon-aws-acm-certificate",
             "icon-aws-list-acm-certificate"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AcmCertificateManager.svg",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/AcmCertificateManager.svg",
         "platform": "aws",
         "type": "AcmCertificate",
         "size": [
@@ -611,7 +611,7 @@
             "icon-aws-iam-server-certificate",
             "icon-aws-list-iam-server-certificate"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/IamSecurityCredential.png",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/IamSecurityCredential.png",
         "platform": "aws",
         "type": "IamServerCertificate",
         "size": [
@@ -625,7 +625,7 @@
             "icon-aws-route-53-domain",
             "icon-aws-list-route-53-domain"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/AmazonRoute53Domain.svg",
+        "path": "assets/images/AWSSimpleIcons/Networking/AmazonRoute53Domain.svg",
         "platform": "aws",
         "type": "Route53Domain",
         "size": [
@@ -640,7 +640,7 @@
             "icon-aws-list-dynamo-db-table",
             "icon-aws-dynamodb"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Database/DynamoDB_table.png",
+        "path": "assets/images/AWSSimpleIcons/Database/DynamoDB_table.png",
         "platform": "aws",
         "type": "DynamoDbTable",
         "size": [
@@ -654,7 +654,7 @@
             "icon-aws-vpn-gateway",
             "icon-aws-list-vpn-gateway"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/VPNgateway.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/VPNgateway.png",
         "platform": "aws",
         "type": "VPNGateway",
         "size": [
@@ -668,7 +668,7 @@
             "icon-aws-waf-regional",
             "icon-aws-list-waf-regional"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
         "platform": "aws",
         "type": "WAFRegional",
         "size": [
@@ -682,7 +682,7 @@
             "icon-aws-waf-regional-v-2",
             "icon-aws-list-waf-regional-v-2"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/aws_waf.png",
         "platform": "aws",
         "type": "WAFRegionalV2",
         "size": [
@@ -696,7 +696,7 @@
             "icon-aws-vpn-connection",
             "icon-aws-list-vpn-connection"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/VPNconnection.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/VPNconnection.png",
         "platform": "aws",
         "type": "VPNConnection",
         "size": [
@@ -710,7 +710,7 @@
             "icon-aws-ecs-task",
             "icon-aws-list-ecs-task"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
         "type": "EcsTask",
         "size": [
@@ -724,7 +724,7 @@
             "icon-aws-sns-topic",
             "icon-aws-list-sns-topic"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
+        "path": "assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
         "platform": "aws",
         "type": "SnsTopic",
         "size": [
@@ -738,7 +738,7 @@
             "icon-aws-sns-platform-application",
             "icon-aws-list-sns-platform-application"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
+        "path": "assets/images/AWSSimpleIcons/ApplicationIntegration/SnsTopic.png",
         "platform": "aws",
         "type": "SnsPlatformApplication",
         "size": [
@@ -752,7 +752,7 @@
             "icon-aws-ses",
             "icon-aws-list-ses"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/SimpleEmail.svg",
+        "path": "assets/images/AWSSimpleIcons/ApplicationIntegration/SimpleEmail.svg",
         "platform": "aws",
         "type": "SES",
         "size": [
@@ -766,7 +766,7 @@
             "icon-aws-ecs-service",
             "icon-aws-list-ecs-service"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/ECS.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/ECS.png",
         "platform": "aws",
         "type": "EcsService",
         "size": [
@@ -780,7 +780,7 @@
             "icon-aws-customer-gateway",
             "icon-aws-list-customer-gateway"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Compute/customergateway.png",
+        "path": "assets/images/AWSSimpleIcons/Compute/customergateway.png",
         "platform": "aws",
         "type": "CustomerGateway",
         "size": [
@@ -794,7 +794,7 @@
             "icon-aws-api-gateway",
             "icon-aws-list-api-gateway"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
+        "path": "assets/images/AWSSimpleIcons/Application/APIGateway.png",
         "platform": "aws",
         "type": "ApiGateway",
         "size": [
@@ -808,7 +808,7 @@
             "icon-aws-api-gateway-v-2",
             "icon-aws-list-api-gateway-v-2"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Application/APIGateway.png",
+        "path": "assets/images/AWSSimpleIcons/Application/APIGateway.png",
         "platform": "aws",
         "type": "ApiGatewayV2",
         "size": [
@@ -822,7 +822,7 @@
             "icon-aws-custom-domain-name",
             "icon-aws-list-custom-domain-name"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/CustomDomainName.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/CustomDomainName.png",
         "platform": "aws",
         "type": "CustomDomainName",
         "size": [
@@ -836,7 +836,7 @@
             "icon-aws-sage-maker-notebook",
             "icon-aws-list-sage-maker-notebook"
         ],
-        "path": "/assets/images/AWSSimpleIcons/aws-sagemaker.png",
+        "path": "assets/images/AWSSimpleIcons/aws-sagemaker.png",
         "platform": "aws",
         "type": "SageMakerNotebook",
         "size": [
@@ -852,7 +852,7 @@
             "icon-aws-workspaces",
             "icon-aws-list-workspaces"
         ],
-        "path": "/assets/images/AWSSimpleIcons/EndUserComputing/aws-workspace.svg",
+        "path": "assets/images/AWSSimpleIcons/EndUserComputing/aws-workspace.svg",
         "platform": "aws",
         "type": "Workspace",
         "size": [
@@ -866,7 +866,7 @@
             "icon-aws-sage-maker-training-job",
             "icon-aws-list-sage-maker-training-job"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-sagemaker_trainingjob.svg",
+        "path": "assets/images/AWSSimpleIcons/MachineLearning/aws-sagemaker_trainingjob.svg",
         "platform": "aws",
         "type": "SageMakerTrainingJob",
         "size": [
@@ -880,7 +880,7 @@
             "icon-aws-vpc-endpoint",
             "icon-aws-list-vpc-endpoint"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_endpoints.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/Networking_AmazonVPC_endpoints.png",
         "platform": "aws",
         "type": "VpcEndpoint",
         "size": [
@@ -893,7 +893,7 @@
         "classNames": [
             "icon-aws-aws-account"
         ],
-        "path": "/assets/images/clarity/aws.png",
+        "path": "assets/images/clarity/aws.png",
         "platform": "aws",
         "type": "Account",
         "size": [
@@ -906,7 +906,7 @@
         "classNames": [
             "icon-aws-elasticbeanstalk"
         ],
-        "path": "/assets/images/clarity/elasticbeanstalk.svg",
+        "path": "assets/images/clarity/elasticbeanstalk.svg",
         "platform": "aws",
         "type": "ElasticBeanstalk",
         "size": [
@@ -919,7 +919,7 @@
         "classNames": [
             "icon-aws-config-setting"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-Config.svg",
+        "path": "assets/images/AWSSimpleIcons/ManagementTools/AWS-Config.svg",
         "platform": "aws",
         "type": "ConfigSetting",
         "size": [
@@ -933,7 +933,7 @@
             "icon-aws-organization",
             "icon-aws-list-organization"
         ],
-        "path": "/assets/images/AWSSimpleIcons/General/aws-organizations.svg",
+        "path": "assets/images/AWSSimpleIcons/General/aws-organizations.svg",
         "platform": "aws",
         "type": "Organization",
         "size": [
@@ -947,7 +947,7 @@
             "icon-aws-transit-gateway",
             "icon-aws-list-transit-gateway"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/Networking_AmazonTransitGateway.svg",
+        "path": "assets/images/AWSSimpleIcons/Networking/Networking_AmazonTransitGateway.svg",
         "platform": "aws",
         "type": "TransitGateway",
         "size": [
@@ -961,7 +961,7 @@
             "icon-aws-step-function-state-machine",
             "icon-aws-step-function-state-machine"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/AWS-Step-Functions.png",
+        "path": "assets/images/AWSSimpleIcons/ApplicationIntegration/AWS-Step-Functions.png",
         "platform": "aws",
         "type": "StepFunctionStateMachine",
         "size": [
@@ -975,7 +975,7 @@
             "icon-aws-secret-manager",
             "icon-aws-list-secret-manager"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AwsSecretManager.svg",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/AwsSecretManager.svg",
         "platform": "aws",
         "type": "SecretManager",
         "size": [
@@ -990,7 +990,7 @@
             "icon-aws-list-transcribe-job",
             "icon-aws-transcribe"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
+        "path": "assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
         "platform": "aws",
         "type": "TranscribeJob",
         "size": [
@@ -1004,7 +1004,7 @@
             "icon-aws-transcribe-medical-job",
             "icon-aws-list-transcribe-medical-job"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
+        "path": "assets/images/AWSSimpleIcons/MachineLearning/Amazon-Transcribe@4x.png",
         "platform": "aws",
         "type": "TranscribeMedicalJob",
         "size": [
@@ -1018,7 +1018,7 @@
             "icon-aws-cognito-user-pool",
             "icon-aws-list-cognito-user-pool"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
         "platform": "aws",
         "type": "CognitoUserPool",
         "size": [
@@ -1032,7 +1032,7 @@
             "icon-aws-cognito-identity-pool",
             "icon-aws-list-cognito-identity-pool"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/aws-cognito.svg",
         "platform": "aws",
         "type": "CognitoIdentityPool",
         "size": [
@@ -1046,7 +1046,7 @@
             "icon-aws-transfer",
             "icon-aws-list-transfer"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Transfer-Family.svg",
+        "path": "assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Transfer-Family.svg",
         "platform": "aws",
         "type": "Transfer",
         "size": [
@@ -1060,7 +1060,7 @@
             "icon-aws-personalize",
             "icon-aws-list-personalize"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MachineLearning/Amazon-Personalize.svg",
+        "path": "assets/images/AWSSimpleIcons/MachineLearning/Amazon-Personalize.svg",
         "platform": "aws",
         "type": "Personalize",
         "size": [
@@ -1074,7 +1074,7 @@
             "icon-aws-system-manager-parameter",
             "icon-aws-list-system-manager-parameter"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/AWS-Systems-Manager_Parameter-Store.svg",
+        "path": "assets/images/AWSSimpleIcons/ManagementTools/AWS-Systems-Manager_Parameter-Store.svg",
         "platform": "aws",
         "type": "SystemManagerParameter",
         "size": [
@@ -1088,7 +1088,7 @@
             "icon-aws-glue-security-configuration",
             "icon-aws-list-glue-security-configuration"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
         "platform": "aws",
         "type": "GlueSecurityConfiguration",
         "size": [
@@ -1102,7 +1102,7 @@
             "icon-aws-glue-connection",
             "icon-aws-list-glue-connection"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Glue.png",
         "platform": "aws",
         "type": "GlueConnection",
         "size": [
@@ -1116,7 +1116,7 @@
             "icon-aws-mq-broker",
             "icon-aws-list-mq-broker"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ApplicationIntegration/Amazon-MQ.png",
+        "path": "assets/images/AWSSimpleIcons/ApplicationIntegration/Amazon-MQ.png",
         "platform": "aws",
         "type": "MqBroker",
         "size": [
@@ -1131,7 +1131,7 @@
             "icon-aws-network-vpc-firewall",
             "icon-aws-list-network-firewall"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Networking/AWS-Network-Firewall_Icon.png",
+        "path": "assets/images/AWSSimpleIcons/Networking/AWS-Network-Firewall_Icon.png",
         "platform": "aws",
         "type": "NetworkFirewall",
         "size": [
@@ -1145,7 +1145,7 @@
             "icon-aws-translation-job",
             "icon-aws-list-translation-job"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
+        "path": "assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
         "platform": "aws",
         "type": "TranslationJob",
         "size": [
@@ -1159,7 +1159,7 @@
             "icon-aws-athena-work-group",
             "icon-aws-list-athena-work-group"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Analytics/Amazon-Athena.svg",
+        "path": "assets/images/AWSSimpleIcons/Analytics/Amazon-Athena.svg",
         "platform": "aws",
         "type": "AthenaWorkGroup",
         "size": [
@@ -1173,7 +1173,7 @@
             "icon-aws-translation-terminology",
             "icon-aws-list-translation-terminology"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
+        "path": "assets/images/AWSSimpleIcons/MachineLearning/aws-translate.png",
         "platform": "aws",
         "type": "TranslationTerminology",
         "size": [
@@ -1187,7 +1187,7 @@
             "icon-aws-system-manager-document",
             "icon-aws-list-system-manager-document"
         ],
-        "path": "/assets/images/AWSSimpleIcons/ManagementTools/awssystemmanagerdocument.svg",
+        "path": "assets/images/AWSSimpleIcons/ManagementTools/awssystemmanagerdocument.svg",
         "platform": "aws",
         "type": "SystemManagerDocument",
         "size": [
@@ -1201,7 +1201,7 @@
             "icon-aws-dms-endpoint",
             "icon-aws-list-dms-endpoint"
         ],
-        "path": "/assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Database-Migration.svg",
+        "path": "assets/images/AWSSimpleIcons/MigrationAndTransfer/AWS-Database-Migration.svg",
         "platform": "aws",
         "type": "DmsEndpoint",
         "size": [
@@ -1215,7 +1215,7 @@
             "icon-aws-shield",
             "icon-aws-list-shield"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Shield.svg",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/AWS-Shield.svg",
         "platform": "aws",
         "type": "Shield",
         "size": [
@@ -1229,7 +1229,7 @@
             "icon-aws-backup-vault",
             "icon-aws-list-backup-vault"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Storage/Backup.svg",
+        "path": "assets/images/AWSSimpleIcons/Storage/Backup.svg",
         "platform": "aws",
         "type": "BackupVault",
         "size": [
@@ -1243,7 +1243,7 @@
             "icon-aws-iam-saml-provider",
             "icon-aws-list-iam-saml-provider"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
         "platform": "aws",
         "type": "IamSAMLProvider",
         "size": [
@@ -1257,7 +1257,7 @@
             "icon-aws-iam-open-id-connect-provider",
             "icon-aws-list-iam-open-id-connect-provider"
         ],
-        "path": "/assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
+        "path": "assets/images/AWSSimpleIcons/SecurityAndIdentity/Security-Identity_AWSIAM.svg",
         "platform": "aws",
         "type": "IamOpenIdConnectProvider",
         "size": [
@@ -1271,7 +1271,7 @@
             "icon-aws-f-sx",
             "icon-aws-list-f-sx"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Storage/Amazon-FSx.svg",
+        "path": "assets/images/AWSSimpleIcons/Storage/Amazon-FSx.svg",
         "platform": "aws",
         "type": "FSx",
         "size": [
@@ -1285,7 +1285,7 @@
             "icon-aws-f-sx-backup",
             "icon-aws-list-f-sx-backup"
         ],
-        "path": "/assets/images/AWSSimpleIcons/Storage/Amazon-FSx.svg",
+        "path": "assets/images/AWSSimpleIcons/Storage/Amazon-FSx.svg",
         "platform": "aws",
         "type": "FSxBackup",
         "size": [
@@ -1298,7 +1298,7 @@
         "classNames": [
             "icon-azure-load-balancer"
         ],
-        "path": "/assets/images/azure-icons/tbd.png",
+        "path": "assets/images/azure-icons/tbd.png",
         "platform": "azure",
         "type": "LoadBalancer",
         "size": [
@@ -1312,7 +1312,7 @@
             "icon-azure-virtual-network-gateway",
             "icon-azure-list-virtual-machine"
         ],
-        "path": "/assets/images/azure-icons/TBD",
+        "path": "assets/images/azure-icons/TBD",
         "platform": "azure",
         "type": "VirtualNetworkGateway",
         "size": [
@@ -1326,7 +1326,7 @@
             "icon-azure-virtual-machine",
             "icon-azure-list-virtual-machine"
         ],
-        "path": "/assets/images/azure-icons/VM symbol only.png",
+        "path": "assets/images/azure-icons/VM symbol only.png",
         "platform": "azure",
         "type": "VirtualMachine",
         "size": [
@@ -1340,7 +1340,7 @@
             "icon-azure-service-fabric-cluster",
             "icon-azure-list-service-fabric-cluster"
         ],
-        "path": "/assets/images/azure-icons/ServiceFabricCluster.svg",
+        "path": "assets/images/azure-icons/ServiceFabricCluster.svg",
         "platform": "azure",
         "type": "ServiceFabricCluster",
         "size": [
@@ -1355,7 +1355,7 @@
             "icon-azure-v-net",
             "icon-azure-vnet"
         ],
-        "path": "/assets/images/azure-icons/Azure Virtual Network.png",
+        "path": "assets/images/azure-icons/Azure Virtual Network.png",
         "platform": "azure",
         "type": "VNet",
         "size": [
@@ -1369,7 +1369,7 @@
             "icon-azure-firewall",
             "icon-azure-list-firewall"
         ],
-        "path": "/assets/images/azure-icons/AzureFirewalls.svg",
+        "path": "assets/images/azure-icons/AzureFirewalls.svg",
         "platform": "azure",
         "type": "Firewall",
         "size": [
@@ -1383,7 +1383,7 @@
             "icon-azure-application-gateway",
             "icon-azure-list-application-gateway"
         ],
-        "path": "/assets/images/azure-icons/ResourceGroup.png",
+        "path": "assets/images/azure-icons/ResourceGroup.png",
         "platform": "azure",
         "type": "ApplicationGateway",
         "size": [
@@ -1397,7 +1397,7 @@
             "icon-azure-sql-server",
             "icon-azure-list-sql-server"
         ],
-        "path": "/assets/images/azure-icons/SQLDatabaseServer.svg",
+        "path": "assets/images/azure-icons/SQLDatabaseServer.svg",
         "platform": "azure",
         "type": "SQLServer",
         "size": [
@@ -1411,7 +1411,7 @@
             "icon-azure-route-table",
             "icon-azure-list-route-table"
         ],
-        "path": "/assets/images/azure-icons/RouteTables.svg",
+        "path": "assets/images/azure-icons/RouteTables.svg",
         "platform": "azure",
         "type": "RouteTable",
         "size": [
@@ -1425,7 +1425,7 @@
             "icon-azure-key-vault",
             "icon-azure-list-key-vault"
         ],
-        "path": "/assets/images/azure-icons/Azure KeyVault.png",
+        "path": "assets/images/azure-icons/Azure KeyVault.png",
         "platform": "azure",
         "type": "KeyVault",
         "size": [
@@ -1439,7 +1439,7 @@
             "icon-azure-redis-cache",
             "icon-azure-list-redis-cache"
         ],
-        "path": "/assets/images/azure-icons/AzureRedisCache.png",
+        "path": "assets/images/azure-icons/AzureRedisCache.png",
         "platform": "azure",
         "type": "RedisCache",
         "size": [
@@ -1453,7 +1453,7 @@
             "icon-azure-storage-account",
             "icon-azure-list-storage-account"
         ],
-        "path": "/assets/images/azure-icons/Storage.png",
+        "path": "assets/images/azure-icons/Storage.png",
         "platform": "azure",
         "type": "StorageAccount",
         "size": [
@@ -1467,7 +1467,7 @@
             "icon-azure-postgre-sql",
             "icon-azure-list-postgre-sql"
         ],
-        "path": "/assets/images/azure-icons/postgresql.svg",
+        "path": "assets/images/azure-icons/postgresql.svg",
         "platform": "azure",
         "type": "PostgreSQL",
         "size": [
@@ -1481,7 +1481,7 @@
             "icon-azure-container-registry",
             "icon-azure-list-container-registry"
         ],
-        "path": "/assets/images/azure-icons/AzureContainerRegistry.png",
+        "path": "assets/images/azure-icons/AzureContainerRegistry.png",
         "platform": "azure",
         "type": "ContainerRegistry",
         "size": [
@@ -1495,7 +1495,7 @@
             "icon-azure-cosmos-db-account",
             "icon-azure-list-cosmos-db-account"
         ],
-        "path": "/assets/images/azure-icons/AzureCosmosDb.png",
+        "path": "assets/images/azure-icons/AzureCosmosDb.png",
         "platform": "azure",
         "type": "CosmosDbAccount",
         "size": [
@@ -1509,7 +1509,7 @@
             "icon-azure-network-watcher",
             "icon-azure-list-network-watcher"
         ],
-        "path": "/assets/images/azure-icons/NetworkWatcher.png",
+        "path": "assets/images/azure-icons/NetworkWatcher.png",
         "platform": "azure",
         "type": "NetworkWatcher",
         "size": [
@@ -1523,7 +1523,7 @@
             "icon-azure-log-profile",
             "icon-azure-list-log-profile"
         ],
-        "path": "/assets/images/azure-icons/Log.svg",
+        "path": "assets/images/azure-icons/Log.svg",
         "platform": "azure",
         "type": "LogProfile",
         "size": [
@@ -1537,7 +1537,7 @@
             "icon-azure-nsg-flow-log",
             "icon-azure-list-nsg-flow-log"
         ],
-        "path": "/assets/images/azure-icons/NSG-Flow-Logs.svg",
+        "path": "assets/images/azure-icons/NSG-Flow-Logs.svg",
         "platform": "azure",
         "type": "NsgFlowLog",
         "size": [
@@ -1551,7 +1551,7 @@
             "icon-azure-logic-app",
             "icon-azure-list-logic-app"
         ],
-        "path": "/assets/images/azure-icons/LogicApps.png",
+        "path": "assets/images/azure-icons/LogicApps.png",
         "platform": "azure",
         "type": "LogicApp",
         "size": [
@@ -1565,7 +1565,7 @@
             "icon-azure-analysis-service-server",
             "icon-azure-list-analysis-service-server"
         ],
-        "path": "/assets/images/azure-icons/AnalysisServices.svg",
+        "path": "assets/images/azure-icons/AnalysisServices.svg",
         "platform": "azure",
         "type": "AnalysisServiceServer",
         "size": [
@@ -1579,7 +1579,7 @@
             "icon-azure-virtual-machine",
             "icon-azure-list-virtual-machine-scale-set"
         ],
-        "path": "/assets/images/azure-icons/TBD",
+        "path": "assets/images/azure-icons/TBD",
         "platform": "azure",
         "type": "VirtualMachineScaleSet",
         "size": [
@@ -1593,7 +1593,7 @@
             "icon-azure-policy-assignment",
             "icon-azure-list-policy-assignment"
         ],
-        "path": "/assets/images/azure-icons/policy-assignment.svg",
+        "path": "assets/images/azure-icons/policy-assignment.svg",
         "platform": "azure",
         "type": "PolicyAssignment",
         "size": [
@@ -1607,7 +1607,7 @@
             "icon-azure-application-security-group",
             "icon-azure-list-application-security-group"
         ],
-        "path": "/assets/images/azure-icons/Application-Security-Group.png",
+        "path": "assets/images/azure-icons/Application-Security-Group.png",
         "platform": "azure",
         "type": "ApplicationSecurityGroup",
         "size": [
@@ -1621,7 +1621,7 @@
             "icon-azure-service-bus",
             "icon-azure-list-service-bus"
         ],
-        "path": "/assets/images/azure-icons/10836-icon-service-Service-Bus.svg",
+        "path": "assets/images/azure-icons/10836-icon-service-Service-Bus.svg",
         "platform": "azure",
         "type": "ServiceBus",
         "size": [
@@ -1635,7 +1635,7 @@
             "icon-azure-aks-cluster",
             "icon-azure-list-aks-cluster"
         ],
-        "path": "/assets/images/azure-icons/aks.svg",
+        "path": "assets/images/azure-icons/aks.svg",
         "platform": "azure",
         "type": "AksCluster",
         "size": [
@@ -1649,7 +1649,7 @@
             "icon-azure-function-app",
             "icon-azure-list-function-app"
         ],
-        "path": "/assets/images/azure-icons/functionApps.svg",
+        "path": "assets/images/azure-icons/functionApps.svg",
         "platform": "azure",
         "type": "FunctionApp",
         "size": [
@@ -1663,7 +1663,7 @@
             "icon-azure-web-app",
             "icon-azure-list-web-app"
         ],
-        "path": "/assets/images/azure-icons/appServices.svg",
+        "path": "assets/images/azure-icons/appServices.svg",
         "platform": "azure",
         "type": "WebApp",
         "size": [
@@ -1677,7 +1677,7 @@
             "icon-azure-app-service-environment",
             "icon-azure-list-app-service-environment"
         ],
-        "path": "/assets/images/azure-icons/App-Service-Environments.svg",
+        "path": "assets/images/azure-icons/App-Service-Environments.svg",
         "platform": "azure",
         "type": "AppServiceEnvironment",
         "size": [
@@ -1691,7 +1691,7 @@
             "icon-azure-user",
             "icon-azure-list-user"
         ],
-        "path": "/assets/images/azure-icons/User.svg",
+        "path": "assets/images/azure-icons/User.svg",
         "platform": "azure",
         "type": "User",
         "size": [
@@ -1705,7 +1705,7 @@
             "icon-azure-sql-managed-instance",
             "icon-azure-list-sql-managed-instance"
         ],
-        "path": "/assets/images/azure-icons/SQLManagedInstance.svg",
+        "path": "assets/images/azure-icons/SQLManagedInstance.svg",
         "platform": "azure",
         "type": "SqlManagedInstance",
         "size": [
@@ -1719,7 +1719,7 @@
             "icon-azure-hd-insight",
             "icon-azure-list-hd-insight"
         ],
-        "path": "/assets/images/azure-icons/HDInsight-Clusters.svg",
+        "path": "assets/images/azure-icons/HDInsight-Clusters.svg",
         "platform": "azure",
         "type": "HDInsight",
         "size": [
@@ -1733,7 +1733,7 @@
             "icon-azure-data-explorer-cluster",
             "icon-azure-list-data-explorer-cluster"
         ],
-        "path": "/assets/images/azure-icons/Data-Explorer-Clusters.svg",
+        "path": "assets/images/azure-icons/Data-Explorer-Clusters.svg",
         "platform": "azure",
         "type": "DataExplorerCluster",
         "size": [
@@ -1747,7 +1747,7 @@
             "icon-azure-activity-log-alert-rule",
             "icon-azure-list-activity-log-alert-rule"
         ],
-        "path": "/assets/images/azure-icons/ActivityLogAlertRule.svg",
+        "path": "assets/images/azure-icons/ActivityLogAlertRule.svg",
         "platform": "azure",
         "type": "ActivityLogAlertRule",
         "size": [
@@ -1761,7 +1761,7 @@
             "icon-azure-api-management-service",
             "icon-azure-list-api-management-service"
         ],
-        "path": "/assets/images/azure-icons/API-Management-Services.svg",
+        "path": "assets/images/azure-icons/API-Management-Services.svg",
         "platform": "azure",
         "type": "ApiManagementService",
         "size": [
@@ -1775,7 +1775,7 @@
             "icon-azure-disk",
             "icon-azure-list-disk"
         ],
-        "path": "/assets/images/azure-icons/AzureComputeDisks.svg",
+        "path": "assets/images/azure-icons/AzureComputeDisks.svg",
         "platform": "azure",
         "type": "Disk",
         "size": [
@@ -1789,7 +1789,7 @@
             "icon-azure-regional-waf",
             "icon-azure-list-regional-waf"
         ],
-        "path": "/assets/images/azure-icons/WAFPolicy.svg",
+        "path": "assets/images/azure-icons/WAFPolicy.svg",
         "platform": "azure",
         "type": "RegionalWAF",
         "size": [
@@ -1803,7 +1803,7 @@
             "icon-azure-role-assignment",
             "icon-azure-role-list-assignment"
         ],
-        "path": "/assets/images/azure-icons/Subscriptions.svg",
+        "path": "assets/images/azure-icons/Subscriptions.svg",
         "platform": "azure",
         "type": "RoleAssignment",
         "size": [
@@ -1817,7 +1817,7 @@
             "icon-azure-role-definition",
             "icon-azure-role-list-definition"
         ],
-        "path": "/assets/images/azure-icons/Subscriptions.svg",
+        "path": "assets/images/azure-icons/Subscriptions.svg",
         "platform": "azure",
         "type": "RoleDefinition",
         "size": [
@@ -1831,7 +1831,7 @@
             "icon-azure-event-hub-namespace",
             "icon-azure-list-event-hub-namespace"
         ],
-        "path": "/assets/images/azure-icons/Azure-Event-Hubs.svg",
+        "path": "assets/images/azure-icons/Azure-Event-Hubs.svg",
         "platform": "azure",
         "type": "EventHubNamespace",
         "size": [
@@ -1845,7 +1845,7 @@
             "icon-azure-bastion",
             "icon-azure-list-bastion"
         ],
-        "path": "/assets/images/azure-icons/azure-bastion.svg",
+        "path": "assets/images/azure-icons/azure-bastion.svg",
         "platform": "azure",
         "type": "Bastion",
         "size": [
@@ -1859,7 +1859,7 @@
             "icon-azure-maria-db",
             "icon-azure-list-maria-db"
         ],
-        "path": "/assets/images/azure-icons/Azure-Maria-DB.svg",
+        "path": "assets/images/azure-icons/Azure-Maria-DB.svg",
         "platform": "azure",
         "type": "MariaDb",
         "size": [
@@ -1873,7 +1873,7 @@
             "icon-azure-security-contact",
             "icon-azure-list-security-contact"
         ],
-        "path": "/assets/images/azure-icons/SecurityCenter.svg",
+        "path": "assets/images/azure-icons/SecurityCenter.svg",
         "platform": "azure",
         "type": "SecurityContact",
         "size": [
@@ -1887,7 +1887,7 @@
             "icon-azure-auto-provisioning-settings",
             "icon-azure-list-auto-provisioning-settings"
         ],
-        "path": "/assets/images/azure-icons/SecurityCenter.svg",
+        "path": "assets/images/azure-icons/SecurityCenter.svg",
         "platform": "azure",
         "type": "AutoProvisioningSettings",
         "size": [
@@ -1901,7 +1901,7 @@
             "icon-azure-container-instance",
             "icon-azure-list-container-instance"
         ],
-        "path": "/assets/images/azure-icons/AzureContainerInstance.svg",
+        "path": "assets/images/azure-icons/AzureContainerInstance.svg",
         "platform": "azure",
         "type": "ContainerInstance",
         "size": [
@@ -1915,7 +1915,7 @@
             "icon-azure-databricks-workspace",
             "icon-azure-list-databricks-workspace"
         ],
-        "path": "/assets/images/azure-icons/Azure-DatabricksWorkspace.svg",
+        "path": "assets/images/azure-icons/Azure-DatabricksWorkspace.svg",
         "platform": "azure",
         "type": "DatabricksWorkspace",
         "size": [
@@ -1929,7 +1929,7 @@
             "icon-azure-my-sqldb-flexible-server",
             "icon-azure-list-my-sqldb-flexible-server"
         ],
-        "path": "/assets/images/azure-icons/Azure-Database-MySQL-Server.svg",
+        "path": "assets/images/azure-icons/Azure-Database-MySQL-Server.svg",
         "platform": "azure",
         "type": "MySQLDBFlexibleServer",
         "size": [
@@ -1943,7 +1943,7 @@
             "icon-azure-my-sqldb-single-server",
             "icon-azure-list-my-sqldb-single-server"
         ],
-        "path": "/assets/images/azure-icons/Azure-Database-MySQL-Server.svg",
+        "path": "assets/images/azure-icons/Azure-Database-MySQL-Server.svg",
         "platform": "azure",
         "type": "MySQLDBSingleServer",
         "size": [
@@ -1957,7 +1957,7 @@
             "icon-azure-spring-cloud",
             "icon-azure-list-spring-cloud"
         ],
-        "path": "/assets/images/azure-icons/Azure-service-Spring-Cloud.svg",
+        "path": "assets/images/azure-icons/Azure-service-Spring-Cloud.svg",
         "platform": "azure",
         "type": "SpringCloud",
         "size": [
@@ -1971,7 +1971,7 @@
             "icon-azure-cognitive-service",
             "icon-azure-list-cognitive-service"
         ],
-        "path": "/assets/images/azure-icons/AzureCognitiveServices.svg",
+        "path": "assets/images/azure-icons/AzureCognitiveServices.svg",
         "platform": "azure",
         "type": "CognitiveService",
         "size": [
@@ -1989,7 +1989,7 @@
             "icon-google-list-cloud-vm-instance",
             "icon-google-list-vm-instance"
         ],
-        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "path": "assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
         "type": "VMInstance",
         "size": [
@@ -2002,7 +2002,7 @@
         "classNames": [
             "icon-azure-VMSSInstance"
         ],
-        "path": "/assets/images/TBD",
+        "path": "assets/images/TBD",
         "platform": "azure",
         "type": "VMSSInstance",
         "size": [
@@ -2018,7 +2018,7 @@
             "icon-gcp-list-network",
             "icon-google-list-network"
         ],
-        "path": "/assets/images/gcp/Networking/Cloud-Network.svg",
+        "path": "assets/images/gcp/Networking/Cloud-Network.svg",
         "platform": "gcp",
         "type": "Network",
         "size": [
@@ -2034,7 +2034,7 @@
             "icon-google-cloud-sql",
             "icon-google-list-cloud-sql"
         ],
-        "path": "/assets/images/gcp/google.sql.svg",
+        "path": "assets/images/gcp/google.sql.svg",
         "platform": "gcp",
         "type": "CloudSql",
         "size": [
@@ -2050,7 +2050,7 @@
             "icon-gcp-list-image",
             "icon-google-list-image"
         ],
-        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "path": "assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
         "type": "Image",
         "size": [
@@ -2066,7 +2066,7 @@
             "icon-gcp-list-disk",
             "icon-google-list-disk"
         ],
-        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "path": "assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
         "type": "Disk",
         "size": [
@@ -2082,7 +2082,7 @@
             "icon-gcp-list-router",
             "icon-google-list-router"
         ],
-        "path": "/assets/images/gcp/Compute/Cloud-Router.svg",
+        "path": "assets/images/gcp/Compute/Cloud-Router.svg",
         "platform": "gcp",
         "type": "Router",
         "size": [
@@ -2098,7 +2098,7 @@
             "icon-gcp-list-instance-template",
             "icon-google-list-instance-template"
         ],
-        "path": "/assets/images/gcp/Compute/Compute-Engine.svg",
+        "path": "assets/images/gcp/Compute/Compute-Engine.svg",
         "platform": "gcp",
         "type": "InstanceTemplate",
         "size": [
@@ -2114,7 +2114,7 @@
             "icon-gcp-list-storage-bucket",
             "icon-google-list-storage-bucket"
         ],
-        "path": "/assets/images/gcp/Storage and Databases/Cloud-Storage.svg",
+        "path": "assets/images/gcp/Storage and Databases/Cloud-Storage.svg",
         "platform": "gcp",
         "type": "StorageBucket",
         "size": [
@@ -2130,7 +2130,7 @@
             "icon-gcp-list-redis",
             "icon-google-list-redis"
         ],
-        "path": "/assets/images/gcp/Storage and Databases/Cloud-Memorystore.png",
+        "path": "assets/images/gcp/Storage and Databases/Cloud-Memorystore.png",
         "platform": "gcp",
         "type": "Redis",
         "size": [
@@ -2146,7 +2146,7 @@
             "icon-gcp-list-service-account",
             "icon-google-list-service-account"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "path": "assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
         "type": "ServiceAccount",
         "size": [
@@ -2162,7 +2162,7 @@
             "icon-gcp-list-api-key",
             "icon-google-list-api-key"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "path": "assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
         "type": "APIKey",
         "size": [
@@ -2178,7 +2178,7 @@
             "icon-gcp-list-kms-key-ring",
             "icon-google-list-kms-key-ring"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/kms.png",
+        "path": "assets/images/gcp/IdentityAndSecurity/kms.png",
         "platform": "gcp",
         "type": "KmsKeyRing",
         "size": [
@@ -2194,7 +2194,7 @@
             "icon-gcp-list-gcp-iam-policy",
             "icon-google-list-gcp-iam-policy"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "path": "assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
         "type": "GcpIamPolicy",
         "size": [
@@ -2210,7 +2210,7 @@
             "icon-gcp-list-gcp-iam-user",
             "icon-google-list-gcp-iam-user"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
+        "path": "assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
         "platform": "gcp",
         "type": "GcpIamUser",
         "size": [
@@ -2226,7 +2226,7 @@
             "icon-gcp-list-gcp-iam-role",
             "icon-google-list-gcp-iam-role"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
+        "path": "assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
         "platform": "gcp",
         "type": "GcpIamRole",
         "size": [
@@ -2242,7 +2242,7 @@
             "icon-gcp-list-gcp-iam-group",
             "icon-google-list-gcp-iam-group"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
+        "path": "assets/images/gcp/IdentityAndSecurity/Cloud-IAM.png",
         "platform": "gcp",
         "type": "GcpIamGroup",
         "size": [
@@ -2258,7 +2258,7 @@
             "icon-gcp-list-big-query",
             "icon-google-list-big-query"
         ],
-        "path": "/assets/images/gcp/Big Data/BigQuery.svg",
+        "path": "assets/images/gcp/Big Data/BigQuery.svg",
         "platform": "gcp",
         "type": "BigQuery",
         "size": [
@@ -2274,7 +2274,7 @@
             "icon-gcp-list-big-query-table",
             "icon-google-list-big-query-table"
         ],
-        "path": "/assets/images/gcp/Big Data/BigQuery.svg",
+        "path": "assets/images/gcp/Big Data/BigQuery.svg",
         "platform": "gcp",
         "type": "BigQueryTable",
         "size": [
@@ -2290,7 +2290,7 @@
             "icon-gcp-list-gke-cluster",
             "icon-google-list-gke-cluster"
         ],
-        "path": "/assets/images/gcp/Extras/Kubernetes_logo.svg",
+        "path": "assets/images/gcp/Extras/Kubernetes_logo.svg",
         "platform": "gcp",
         "type": "GkeCluster",
         "size": [
@@ -2306,7 +2306,7 @@
             "icon-gcp-list-cloud-function",
             "icon-google-list-cloud-function"
         ],
-        "path": "/assets/images/gcp/Compute/Cloud-Functions.svg",
+        "path": "assets/images/gcp/Compute/Cloud-Functions.svg",
         "platform": "gcp",
         "type": "CloudFunction",
         "size": [
@@ -2322,7 +2322,7 @@
             "icon-gcp-list-big-table",
             "icon-google-list-big-table"
         ],
-        "path": "/assets/images/gcp/Storage and Databases/Cloud-Bigtable.svg",
+        "path": "assets/images/gcp/Storage and Databases/Cloud-Bigtable.svg",
         "platform": "gcp",
         "type": "BigTable",
         "size": [
@@ -2338,7 +2338,7 @@
             "icon-gcp-list-pub-sub-topic",
             "icon-google-list-pub-sub-topic"
         ],
-        "path": "/assets/images/gcp/Big Data/Cloud-PubSub.svg",
+        "path": "assets/images/gcp/Big Data/Cloud-PubSub.svg",
         "platform": "gcp",
         "type": "PubSubTopic",
         "size": [
@@ -2354,7 +2354,7 @@
             "icon-gcp-list-app-engine",
             "icon-google-list-app-engine"
         ],
-        "path": "/assets/images/gcp/Compute/App-Engine.svg",
+        "path": "assets/images/gcp/Compute/App-Engine.svg",
         "platform": "gcp",
         "type": "AppEngine",
         "size": [
@@ -2370,7 +2370,7 @@
             "icon-gcp-list-filestore-instance",
             "icon-google-list-filestore-instance"
         ],
-        "path": "/assets/images/gcp/Storage and Databases/Filestore.svg",
+        "path": "assets/images/gcp/Storage and Databases/Filestore.svg",
         "platform": "gcp",
         "type": "FilestoreInstance",
         "size": [
@@ -2386,7 +2386,7 @@
             "icon-gcp-list-url-map",
             "icon-google-list-url-map"
         ],
-        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "path": "assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
         "type": "UrlMap",
         "size": [
@@ -2402,7 +2402,7 @@
             "icon-gcp-list-tcp-udp-load-balancer-target-pool",
             "icon-google-list-tcp-udp-load-balancer-target-pool"
         ],
-        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "path": "assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
         "type": "TcpUdpLoadBalancerTargetPool",
         "size": [
@@ -2418,7 +2418,7 @@
             "icon-gcp-list-route",
             "icon-google-list-route"
         ],
-        "path": "/assets/images/gcp/Networking/Cloud-Route.svg",
+        "path": "assets/images/gcp/Networking/Cloud-Route.svg",
         "platform": "gcp",
         "type": "Route",
         "size": [
@@ -2434,7 +2434,7 @@
             "icon-gcp-list-alert-policy",
             "icon-google-list-alert-policy"
         ],
-        "path": "/assets/images/gcp/Management Tools/Monitoring.svg",
+        "path": "assets/images/gcp/Management Tools/Monitoring.svg",
         "platform": "gcp",
         "type": "AlertPolicy",
         "size": [
@@ -2450,7 +2450,7 @@
             "icon-gcp-list-log-based-metric",
             "icon-google-list-log-based-metric"
         ],
-        "path": "/assets/images/gcp/Management Tools/Logging.svg",
+        "path": "assets/images/gcp/Management Tools/Logging.svg",
         "platform": "gcp",
         "type": "LogBasedMetric",
         "size": [
@@ -2466,7 +2466,7 @@
             "icon-gcp-list-log-sink",
             "icon-google-list-log-sink"
         ],
-        "path": "/assets/images/gcp/Management Tools/Logging.svg",
+        "path": "assets/images/gcp/Management Tools/Logging.svg",
         "platform": "gcp",
         "type": "LogSink",
         "size": [
@@ -2482,7 +2482,7 @@
             "icon-gcp-list-load-balancer-ssl-policy",
             "icon-google-list-load-balancer-ssl-policy"
         ],
-        "path": "/assets/images/gcp/Compute/Ssl_Policy.svg",
+        "path": "assets/images/gcp/Compute/Ssl_Policy.svg",
         "platform": "gcp",
         "type": "LoadBalancerSslPolicy",
         "size": [
@@ -2498,7 +2498,7 @@
             "icon-gcp-list-backend-service",
             "icon-google-list-backend-service"
         ],
-        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "path": "assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
         "type": "BackendService",
         "size": [
@@ -2514,7 +2514,7 @@
             "icon-gcp-list-log-bucket",
             "icon-google-list-log-bucket"
         ],
-        "path": "/assets/images/gcp/Management Tools/Logging.svg",
+        "path": "assets/images/gcp/Management Tools/Logging.svg",
         "platform": "gcp",
         "type": "LogBucket",
         "size": [
@@ -2530,7 +2530,7 @@
             "icon-gcp-list-forwarding-rule",
             "icon-google-list-forwarding-rule"
         ],
-        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "path": "assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
         "type": "ForwardingRule",
         "size": [
@@ -2546,7 +2546,7 @@
             "icon-gcp-list-dns-managed-zone",
             "icon-google-list-dns-managed-zone"
         ],
-        "path": "/assets/images/gcp/Networking/Cloud-DNS.svg",
+        "path": "assets/images/gcp/Networking/Cloud-DNS.svg",
         "platform": "gcp",
         "type": "DnsManagedZone",
         "size": [
@@ -2562,7 +2562,7 @@
             "icon-gcp-list-tcp-load-balancer-target-proxy",
             "icon-google-list-tcp-load-balancer-target-proxy"
         ],
-        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "path": "assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
         "type": "TcpLoadBalancerTargetProxy",
         "size": [
@@ -2578,7 +2578,7 @@
             "icon-gcp-list-https-load-balancer-target-proxy",
             "icon-google-list-https-load-balancer-target-proxy"
         ],
-        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "path": "assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
         "type": "HttpsLoadBalancerTargetProxy",
         "size": [
@@ -2594,7 +2594,7 @@
             "icon-gcp-list-ssl-load-balancer-target-proxy",
             "icon-google-list-ssl-load-balancer-target-proxy"
         ],
-        "path": "/assets/images/gcp/Compute/Load-Balancer.svg",
+        "path": "assets/images/gcp/Compute/Load-Balancer.svg",
         "platform": "gcp",
         "type": "SslLoadBalancerTargetProxy",
         "size": [
@@ -2610,7 +2610,7 @@
             "icon-gcp-list-dataproc-cluster",
             "icon-google-list-dataproc-cluster"
         ],
-        "path": "/assets/images/gcp/Big Data/Cloud-Dataproc.svg",
+        "path": "assets/images/gcp/Big Data/Cloud-Dataproc.svg",
         "platform": "gcp",
         "type": "DataprocCluster",
         "size": [
@@ -2626,7 +2626,7 @@
             "icon-gcp-list-essential-contact",
             "icon-google-list-essential-contact"
         ],
-        "path": "/assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
+        "path": "assets/images/gcp/IdentityAndSecurity/Cloud-IAM.svg",
         "platform": "gcp",
         "type": "EssentialContact",
         "size": [
@@ -2640,7 +2640,7 @@
             "icon-alibaba-security-group",
             "icon-alibaba-vpm"
         ],
-        "path": "/assets/images/alibaba/alibaba.svg",
+        "path": "assets/images/alibaba/alibaba.svg",
         "platform": "alibaba",
         "type": "SecurityGroup",
         "size": [
@@ -2653,7 +2653,7 @@
         "classNames": [
             "icon-alibaba-ram-user"
         ],
-        "path": "/assets/images/TBD",
+        "path": "assets/images/TBD",
         "platform": "alibaba",
         "type": "RamUser",
         "size": [
@@ -2666,7 +2666,7 @@
         "classNames": [
             "icon-alibaba-ram-group"
         ],
-        "path": "/assets/images/TBD",
+        "path": "assets/images/TBD",
         "platform": "alibaba",
         "type": "RamGroup",
         "size": [
@@ -2679,7 +2679,7 @@
         "classNames": [
             "icon-alibaba-ram-password-policy"
         ],
-        "path": "/assets/images/TBD",
+        "path": "assets/images/TBD",
         "platform": "alibaba",
         "type": "RamPasswordPolicy",
         "size": [
@@ -2692,7 +2692,7 @@
         "classNames": [
             "icon-alibaba-ram-role"
         ],
-        "path": "/assets/images/TBD",
+        "path": "assets/images/TBD",
         "platform": "alibaba",
         "type": "RamRole",
         "size": [
@@ -2705,7 +2705,7 @@
         "classNames": [
             "icon-alibaba-ram-policy"
         ],
-        "path": "/assets/images/TBD",
+        "path": "assets/images/TBD",
         "platform": "alibaba",
         "type": "RamPolicy",
         "size": [
@@ -2718,7 +2718,7 @@
         "classNames": [
             "icon-alibaba-vpc"
         ],
-        "path": "/assets/images/alibaba/vpc.svg",
+        "path": "assets/images/alibaba/vpc.svg",
         "platform": "alibaba",
         "type": "VPC",
         "size": [
@@ -2731,7 +2731,7 @@
         "classNames": [
             "icon-alibaba-v-switch"
         ],
-        "path": "/assets/images/TBD",
+        "path": "assets/images/TBD",
         "platform": "alibaba",
         "type": "VSwitch",
         "size": [
@@ -2744,7 +2744,7 @@
         "classNames": [
             "icon-alibaba-oss-bucket"
         ],
-        "path": "/assets/images/alibaba/oss.svg",
+        "path": "assets/images/alibaba/oss.svg",
         "platform": "alibaba",
         "type": "OssBucket",
         "size": [
@@ -2757,7 +2757,7 @@
         "classNames": [
             "icon-alibaba-ecs-instance"
         ],
-        "path": "/assets/images/alibaba/ecs.svg",
+        "path": "assets/images/alibaba/ecs.svg",
         "platform": "alibaba",
         "type": "EcsInstance",
         "size": [
@@ -2770,7 +2770,7 @@
         "classNames": [
             "icon-alibaba-ecs-disk"
         ],
-        "path": "/assets/images/alibaba/ecs.svg",
+        "path": "assets/images/alibaba/ecs.svg",
         "platform": "alibaba",
         "type": "EcsDisk",
         "size": [
@@ -2783,7 +2783,7 @@
         "classNames": [
             "icon-alibaba-nas"
         ],
-        "path": "/assets/images/alibaba/NAS.svg",
+        "path": "assets/images/alibaba/NAS.svg",
         "platform": "alibaba",
         "type": "NAS",
         "size": [
@@ -2796,7 +2796,7 @@
         "classNames": [
             "icon-alibaba-kms"
         ],
-        "path": "/assets/images/alibaba/AlibabaKMS.svg",
+        "path": "assets/images/alibaba/AlibabaKMS.svg",
         "platform": "alibaba",
         "type": "KMS",
         "size": [
@@ -2809,7 +2809,7 @@
         "classNames": [
             "icon-alibaba-action-trail"
         ],
-        "path": "/assets/images/alibaba/ActionTrail.svg",
+        "path": "assets/images/alibaba/ActionTrail.svg",
         "platform": "alibaba",
         "type": "ActionTrail",
         "size": [
@@ -2822,7 +2822,7 @@
         "classNames": [
             "icon-alibaba-slb"
         ],
-        "path": "/assets/images/alibaba/SLB.svg",
+        "path": "assets/images/alibaba/SLB.svg",
         "platform": "alibaba",
         "type": "SLB",
         "size": [
@@ -2835,7 +2835,7 @@
         "classNames": [
             "icon-alibaba-auto-scaling-group"
         ],
-        "path": "/assets/images/alibaba/AutoScalingGroup.svg",
+        "path": "assets/images/alibaba/AutoScalingGroup.svg",
         "platform": "alibaba",
         "type": "AutoScalingGroup",
         "size": [
@@ -2848,7 +2848,7 @@
         "classNames": [
             "icon-alibaba-rds-db-instance"
         ],
-        "path": "/assets/images/alibaba/rds_mariadb.svg",
+        "path": "assets/images/alibaba/rds_mariadb.svg",
         "platform": "alibaba",
         "type": "RdsDbInstance",
         "size": [
@@ -2861,7 +2861,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-pod"
         ],
-        "path": "/assets/images/kubernetes/icons/k8pod.svg",
+        "path": "assets/images/kubernetes/icons/k8pod.svg",
         "platform": "kubernetes",
         "type": "KubernetesPod",
         "size": [
@@ -2874,7 +2874,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-node"
         ],
-        "path": "/assets/images/kubernetes/icons/k8node.svg",
+        "path": "assets/images/kubernetes/icons/k8node.svg",
         "platform": "kubernetes",
         "type": "KubernetesNode",
         "size": [
@@ -2887,7 +2887,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-service"
         ],
-        "path": "/assets/images/kubernetes/icons/k8service.svg",
+        "path": "assets/images/kubernetes/icons/k8service.svg",
         "platform": "kubernetes",
         "type": "KubernetesService",
         "size": [
@@ -2900,7 +2900,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-ingress"
         ],
-        "path": "/assets/images/kubernetes/icons/ing.svg",
+        "path": "assets/images/kubernetes/icons/ing.svg",
         "platform": "kubernetes",
         "type": "KubernetesIngress",
         "size": [
@@ -2913,7 +2913,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-image"
         ],
-        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "path": "assets/images/kubernetes/icons/docker.svg",
         "platform": "kubernetes",
         "type": "KubernetesImage",
         "size": [
@@ -2926,7 +2926,7 @@
         "classNames": [
             "icon-containerregistry-container-registry-image"
         ],
-        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "path": "assets/images/kubernetes/icons/docker.svg",
         "platform": "kubernetes",
         "type": "ContainerRegistryImage",
         "size": [
@@ -2939,7 +2939,7 @@
         "classNames": [
             "icon-aws-ecs-image"
         ],
-        "path": "/assets/images/kubernetes/icons/docker.svg",
+        "path": "assets/images/kubernetes/icons/docker.svg",
         "platform": "kubernetes",
         "type": "EcsImage",
         "size": [
@@ -2952,7 +2952,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-network-policy"
         ],
-        "path": "/assets/images/kubernetes/icons/netpol.svg",
+        "path": "assets/images/kubernetes/icons/netpol.svg",
         "platform": "kubernetes",
         "type": "KubernetesNetworkPolicy",
         "size": [
@@ -2965,7 +2965,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-role"
         ],
-        "path": "/assets/images/kubernetes/icons/c-role.svg",
+        "path": "assets/images/kubernetes/icons/c-role.svg",
         "platform": "kubernetes",
         "type": "KubernetesRole",
         "size": [
@@ -2978,7 +2978,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-role-binding"
         ],
-        "path": "/assets/images/kubernetes/icons/crb.svg",
+        "path": "assets/images/kubernetes/icons/crb.svg",
         "platform": "kubernetes",
         "type": "KubernetesRoleBinding",
         "size": [
@@ -2991,7 +2991,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-service-account"
         ],
-        "path": "/assets/images/kubernetes/icons/sa.svg",
+        "path": "assets/images/kubernetes/icons/sa.svg",
         "platform": "kubernetes",
         "type": "KubernetesServiceAccount",
         "size": [
@@ -3004,7 +3004,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-namespace"
         ],
-        "path": "/assets/images/kubernetes/icons/ns.svg",
+        "path": "assets/images/kubernetes/icons/ns.svg",
         "platform": "kubernetes",
         "type": "KubernetesNamespace",
         "size": [
@@ -3017,7 +3017,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-cluster"
         ],
-        "path": "/assets/images/kubernetes/icons/kubernetes.svg",
+        "path": "assets/images/kubernetes/icons/kubernetes.svg",
         "platform": "kubernetes",
         "type": "KubernetesCluster",
         "size": [
@@ -3030,7 +3030,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-pod-security-policy"
         ],
-        "path": "/assets/images/kubernetes/icons/psp.svg",
+        "path": "assets/images/kubernetes/icons/psp.svg",
         "platform": "kubernetes",
         "type": "KubernetesPodSecurityPolicy",
         "size": [
@@ -3043,7 +3043,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-daemon-set"
         ],
-        "path": "/assets/images/kubernetes/icons/ds.svg",
+        "path": "assets/images/kubernetes/icons/ds.svg",
         "platform": "kubernetes",
         "type": "KubernetesDaemonSet",
         "size": [
@@ -3056,7 +3056,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-deployment"
         ],
-        "path": "/assets/images/kubernetes/icons/deploy.svg",
+        "path": "assets/images/kubernetes/icons/deploy.svg",
         "platform": "kubernetes",
         "type": "KubernetesDeployment",
         "size": [
@@ -3069,7 +3069,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-replica-set"
         ],
-        "path": "/assets/images/kubernetes/icons/rs.svg",
+        "path": "assets/images/kubernetes/icons/rs.svg",
         "platform": "kubernetes",
         "type": "KubernetesReplicaSet",
         "size": [
@@ -3082,7 +3082,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-stateful-set"
         ],
-        "path": "/assets/images/kubernetes/icons/sts.svg",
+        "path": "assets/images/kubernetes/icons/sts.svg",
         "platform": "kubernetes",
         "type": "KubernetesStatefulSet",
         "size": [
@@ -3095,7 +3095,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-job"
         ],
-        "path": "/assets/images/kubernetes/icons/job.svg",
+        "path": "assets/images/kubernetes/icons/job.svg",
         "platform": "kubernetes",
         "type": "KubernetesJob",
         "size": [
@@ -3108,7 +3108,7 @@
         "classNames": [
             "icon-kubernetes-kubernetes-cron-job"
         ],
-        "path": "/assets/images/kubernetes/icons/cronjob.svg",
+        "path": "assets/images/kubernetes/icons/cronjob.svg",
         "platform": "kubernetes",
         "type": "KubernetesCronJob",
         "size": [
@@ -3121,7 +3121,7 @@
         "classNames": [
             "icon-kubernetes-openshift-security-context-constraint"
         ],
-        "path": "/assets/images/kubernetes/icons/openshift.svg",
+        "path": "assets/images/kubernetes/icons/openshift.svg",
         "platform": "kubernetes",
         "type": "OpenshiftSecurityContextConstraint",
         "size": [
@@ -3134,7 +3134,7 @@
         "classNames": [
             "icon-kubernetes-openshift-security-context-constraint"
         ],
-        "path": "/assets/images/kubernetes/icons/openshift.svg",
+        "path": "assets/images/kubernetes/icons/openshift.svg",
         "platform": "Dome9",
         "type": "Agent",
         "size": [
