@@ -231,7 +231,7 @@
             "icon-aws-list-s-3-bucket",
             "icon-aws-s-3"
         ],
-        "path": "aws/Architecture-Service-Icons/Arch_Storage/16/Arch_Amazon-Simple-Storage-Service-Glacier_16.svg",
+        "path": "aws/Architecture-Service-Icons/Arch_Storage/16/Arch_Amazon-Simple-Storage-Service_16.svg",
         "platform": "aws",
         "type": "S3Bucket",
         "size": [
