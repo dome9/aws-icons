@@ -1,6 +1,6 @@
 {
   "name": "@dome9/vendor-icons",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "",
   "main": "index.js",
   "files": [
@@ -8,9 +8,8 @@
     "./map.json"
   ],
   "scripts": {
-    "build": "node ./lib/vendor-icons-map-generator.js",
-    "prepublish": "npm run build && npm version patch",
-    "publish": "npm publish"
+    "build": "node ./lib/vendor-icons-map-generator.js && node ./lib/copy-icons.js",
+    "prepublish": "npm run build && npm version patch"
   },
   "repository": {
     "type": "git",
